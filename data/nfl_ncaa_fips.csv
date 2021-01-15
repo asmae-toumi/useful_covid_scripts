@@ -1,0 +1,827 @@
+game_date,has_fans,home_team,away_team,long,lat,week,stadium,league,fips
+8/29/20,Yes,Central Arkansas Bears,Austin Peay Governors,-92.45931,35.078196,1,Cramton Bowl,NCAA,05045
+9/3/20,No,Southern Mississippi Golden Eagles,South Alabama Jaguars,-89.33791,31.327499,2,The Rock,NCAA,28035
+9/3/20,Yes,Alabama-Birmingham Blazers,Central Arkansas Bears,-86.80917,33.50223,2,Legion Field,NCAA,01073
+9/5/20,Yes,Army Black Knights,Middle Tennessee Blue Raiders,-73.956804,41.390882,2,Michie Stadium,NCAA,36071
+9/5/20,Yes,Texas-El Paso Miners,Stephen F. Austin Lumberjacks,-106.50356,31.771697,2,Sun Bowl,NCAA,48141
+9/5/20,Yes,Texas State Bobcats,Southern Methodist Mustangs,-97.936392,29.889202,2,Bobcat Stadium,NCAA,48209
+9/5/20,Yes,Memphis Tigers,Arkansas State Red Wolves,-89.993508,35.115864,2,Liberty Bowl,NCAA,47157
+9/5/20,Yes,North Texas Mean Green,Houston Baptist Huskies,-97.151211,33.210958,2,Apogee Stadium,NCAA,48121
+9/5/20,No,Marshall Thundering Herd,Eastern Kentucky Colonels,-82.43065,38.42261,2,Joan C. Edwards,NCAA,54011
+9/7/20,No,Navy Midshipmen,Brigham Young Cougars,-76.481692,38.980507,3,Navy-Marine Corps MS,NCAA,24003
+9/10/20,Yes,Miami Hurricanes,Alabama-Birmingham Blazers,-80.27645,25.720406,3,Hard Rock Stadium,NCAA,12086
+9/12/20,No,Pittsburgh Panthers,Austin Peay Governors,-79.954692,40.444502,3,Heinz Field,NCAA,42003
+9/12/20,Yes,Army Black Knights,Louisiana-Monroe Warhawks,-73.956804,41.390882,3,Michie Stadium,NCAA,36071
+9/12/20,Yes,Texas State Bobcats,UTSA Roadrunners,-97.936392,29.889202,3,Bobcat Stadium,NCAA,48209
+9/12/20,No,Appalachian State Mountaineers,Charlotte 49ers,-81.662569,36.201658,3,Kidd Brewer,NCAA,37189
+9/12/20,Yes,South Alabama Jaguars,Tulane Green Wave,-88.18189,30.695081,3,Hancock Whitney,NCAA,01097
+9/12/20,No,South Florida Bulls,Citadel Bulldogs,-82.415876,28.056647,3,Raymond James,NCAA,12057
+9/12/20,No,North Carolina Tar Heels,Syracuse Orangemen,-79.050969,35.912165,3,Kenan Stadium,NCAA,37135
+9/12/20,Yes,Wake Forest Demon Deacons,Clemson Tigers,-80.279004,36.135301,3,Truist Field,NCAA,37067
+9/26/20,Yes,Virginia Polytechnic Hokies,North Carolina State Wolfpack,-80.434849,37.237477,3,Lane/Worsham Field,NCAA,51121
+9/12/20,Yes,Notre Dame Fighting Irish,Duke Blue Devils,-86.289848,41.616717,3,Notre Dame Stadium,NCAA,18141
+9/12/20,Yes,West Virginia Mountaineers,Eastern Kentucky Colonels,-79.953926,39.63468,3,Milan Puskar Stadium,NCAA,54061
+9/12/20,Yes,Texas Tech Red Raiders,Houston Baptist Huskies,-101.876917,33.580309,3,Jones AT&T Stadium,NCAA,48303
+9/19/20,Yes,Oklahoma State Cowboys,Tulsa Golden Hurricanes,-97.069743,36.123085,3,Boone Pickens Stadium,NCAA,40119
+9/12/20,Yes,Texas Longhorns,Texas-El Paso Miners,-97.737277,30.28473,3,DKR Texas Memorial,NCAA,48453
+9/12/20,No,Kansas Jayhawks,Coastal Carolina Chanticleers,-95.24587,38.957351,3,Booth Memorial,NCAA,20045
+9/12/20,Yes,Kansas State Wildcats,Arkansas State Red Wolves,-96.581077,39.188616,3,Snyder Stadium,NCAA,20161
+9/12/20,Yes,Florida State Seminoles,Georgia Tech Yellow Jackets,-84.290883,30.439741,3,Doak Campbell Stadium,NCAA,12073
+9/12/20,Yes,Louisville Cardinals,Western Kentucky Hilltoppers,-85.758843,38.215752,3,Cardinal Stadium,NCAA,21111
+9/12/20,No,Iowa State Cyclones,Louisiana-Lafayette Ragin Cajuns,-93.648353,42.026368,3,Jack Trice Stadium,NCAA,19169
+9/12/20,Yes,Oklahoma Sooners,Missouri State Bears,-97.445692,35.208152,3,Memorial Stadium,NCAA,40027
+9/12/20,Yes,Georgia Southern Eagles,Campbell Camels,-81.779908,32.427341,3,Allen E. Paulson,NCAA,13031
+9/19/20,Yes,UTSA Roadrunners,Stephen F. Austin Lumberjacks,-98.621386,29.582418,4,Alamodome,NCAA,48029
+9/19/20,Yes,Texas-El Paso Miners,Abilene Christian Wildcats,-106.50356,31.771697,4,Sun Bowl,NCAA,48141
+9/19/20,Yes,Middle Tennessee Blue Raiders,Troy Trojans,-86.362094,35.849139,4,Floyd,NCAA,47149
+9/19/20,Yes,Louisiana-Monroe Warhawks,Texas State Bobcats,-92.073855,32.527957,4,Malone Stadium,NCAA,22073
+9/19/20,Yes,Georgia State Panthers,Louisiana-Lafayette Ragin Cajuns,-84.38667,33.7527,4,Center Parc Stadium,NCAA,13121
+10/10/20,Yes,Arkansas State Red Wolves,Central Arkansas Bears,-90.680478,35.842779,4,Centennial Bank,NCAA,05031
+9/19/20,No,Tulane Green Wave,Navy Midshipmen,-90.120409,29.939696,4,Yulman Stadium,NCAA,22071
+9/19/20,No,Cincinnati Bearcats,Austin Peay Governors,-84.51428,39.131159,4,Nippert,NCAA,39061
+12/12/20,Yes,Memphis Tigers,Houston Cougars,-89.993508,35.115864,4,Liberty Bowl,NCAA,47157
+9/19/20,Yes,Western Kentucky Hilltoppers,Liberty Flames,-86.455898,36.985718,4,Houchens-Smith,NCAA,21227
+12/12/20,Yes,Virginia Polytechnic Hokies,Virginia Cavaliers,-80.434849,37.237477,4,Lane/Worsham Field,NCAA,51121
+9/19/20,Yes,Marshall Thundering Herd,Appalachian State Mountaineers,-82.43065,38.42261,4,Joan C. Edwards,NCAA,54011
+9/18/20,Yes,Coastal Carolina Chanticleers,Campbell Camels,-79.012599,33.794734,4,Brooks Stadium,NCAA,45051
+9/19/20,Yes,North Texas Mean Green,Southern Methodist Mustangs,-97.151211,33.210958,4,Apogee Stadium,NCAA,48121
+9/19/20,No,Duke Blue Devils,Boston College Eagles,-78.94226,36.00159,4,Wallace Wade Stadium,NCAA,37063
+9/19/20,Yes,Clemson Tigers,Citadel Bulldogs,-82.834463,34.677329,4,Memorial Stadium,NCAA,45077
+9/19/20,Yes,Georgia Tech Yellow Jackets,Central Florida Knights,-84.396019,33.773732,4,Bobby Dodd Stadium,NCAA,13121
+9/19/20,No,Pittsburgh Panthers,Syracuse Orangemen,-79.954692,40.444502,4,Heinz Field,NCAA,42003
+9/19/20,No,North Carolina State Wolfpack,Wake Forest Demon Deacons,-78.674517,35.785111,4,Carter-Finley,NCAA,37183
+9/19/20,Yes,Louisville Cardinals,Miami Hurricanes,-85.758843,38.215752,4,Cardinal Stadium,NCAA,21111
+9/19/20,No,Southern Mississippi Golden Eagles,Louisiana Tech Bulldogs,-89.33791,31.327499,4,The Rock,NCAA,28035
+12/5/20,Yes,Georgia Southern Eagles,Florida Atlantic Owls,-81.779908,32.427341,4,Allen E. Paulson,NCAA,13031
+9/26/20,Yes,East Carolina Pirates,Central Florida Knights,-77.366199,35.606347,5,Dowdy-Ficklen,NCAA,37147
+9/26/20,No,Brigham Young Cougars,Troy Trojans,-111.649281,40.250851,5,LaVell Edwards,NCAA,49049
+9/26/20,No,Appalachian State Mountaineers,Campbell Camels,-81.662569,36.201658,5,Kidd Brewer Stadium,NCAA,37189
+9/24/20,Yes,South Alabama Jaguars,Alabama-Birmingham Blazers,-88.18189,30.695081,5,Hancock Whitney,NCAA,01097
+10/10/20,Yes,Navy Midshipmen,Temple Owls,-76.481692,38.980507,5,Navy-Marine Corps MS,NCAA,24003
+9/26/20,Yes,Texas A&M Aggies,Vanderbilt Commodores,-96.306732,30.596291,5,Kyle Field,NCAA,48041
+9/26/20,Yes,Arkansas Razorbacks,Georgia Bulldogs,-94.178214,36.06153,5,DWRRS,NCAA,05143
+9/26/20,Yes,Louisiana State Fighting Tigers,Mississippi State Bulldogs,-91.196656,30.552111,5,Tiger Stadium,NCAA,22033
+9/26/20,Yes,Mississippi Rebels,Florida Gators,-89.539377,34.362144,5,Vaught-Hemingway,NCAA,28071
+9/26/20,Yes,Missouri Tigers,Alabama Crimson Tide,-92.326429,38.941015,5,Memorial Stadium,NCAA,29019
+9/26/20,Yes,Liberty Flames,Florida International Golden Panthers,-79.179688,37.350345,5,Williams Stadium,NCAA,51031
+9/26/20,No,Syracuse Orangemen,Georgia Tech Yellow Jackets,-76.135062,43.037587,5,Carrier Dome,NCAA,36067
+9/26/20,No,Pittsburgh Panthers,Louisville Cardinals,-79.954692,40.444502,5,Heinz Field,NCAA,42003
+9/26/20,Yes,Miami Hurricanes,Florida State Seminoles,-80.27645,25.720406,5,Hard Rock Stadium,NCAA,12086
+9/26/20,Yes,Texas Tech Red Raiders,Texas Longhorns,-101.876917,33.580309,5,Jones AT&T Stadium,NCAA,48303
+9/26/20,Yes,Oklahoma State Cowboys,West Virginia Mountaineers,-97.069743,36.123085,5,Boone Pickens Stadium,NCAA,40119
+9/26/20,Yes,Texas Christian Horned Frogs,Iowa State Cyclones,-97.361537,32.709568,5,Amon G. Carter,NCAA,48439
+9/26/20,Yes,Baylor Bears,Kansas Jayhawks,-97.119359,31.545956,5,McLane Stadium,NCAA,48309
+9/26/20,Yes,South Carolina Gamecocks,Tennessee Volunteers,-81.037739,34.006153,5,Williams-Brice Stad.,NCAA,45079
+9/26/20,Yes,Louisiana-Lafayette Ragin Cajuns,Georgia Southern Eagles,-92.01941,30.215283,5,Cajun Field,NCAA,22055
+9/26/20,No,Southern Mississippi Golden Eagles,Tulane Green Wave,-89.33791,31.327499,5,The Rock,NCAA,28035
+9/26/20,Yes,Louisiana Tech Bulldogs,Houston Baptist Huskies,-92.64964,32.525518,5,Joe Aillet Stadium,NCAA,22061
+9/26/20,Yes,Auburn Tigers,Kentucky Wildcats,-85.492409,32.600201,5,Jordan-Hare,NCAA,01081
+9/26/20,Yes,Oklahoma Sooners,Kansas State Wildcats,-97.445692,35.208152,5,Memorial Stadium,NCAA,40027
+9/26/20,Yes,Southern Methodist Mustangs,Stephen F. Austin Lumberjacks,-96.784855,32.845254,5,Ford Stadium,NCAA,48113
+9/26/20,Yes,Citadel Bulldogs,Eastern Kentucky Colonels,-79.961399,32.796975,5,Johnson Hagood,NCAA,45019
+9/26/20,Yes,Louisiana-Monroe Warhawks,Texas-El Paso Miners,-92.073855,32.527957,5,Malone Stadium,NCAA,22073
+9/26/20,Yes,Central Arkansas Bears,Missouri State Bears,-92.45931,35.078196,5,Estes Stadium,NCAA,05045
+10/3/20,Yes,Southern Methodist Mustangs,Memphis Tigers,-96.784855,32.845254,6,Ford Stadium,NCAA,48113
+10/3/20,Yes,Florida State Seminoles,Jacksonville State Gamecocks,-84.290883,30.439741,6,Doak Campbell Stadium,NCAA,12073
+10/3/20,Yes,Stephen F. Austin Lumberjacks,West Texas A&M Buffalos,-94.58546,31.58562,6,Homer Bryce Stadium,NCAA,48347
+10/3/20,Yes,Air Force Academy Falcons,Navy Midshipmen,-104.889895,39.011005,6,Falcon Stadium,NCAA,08041
+10/3/20,Yes,Army Black Knights,Abilene Christian Wildcats,-73.956804,41.390882,6,Michie Stadium,NCAA,36071
+10/3/20,Yes,Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,-86.362094,35.849139,6,Floyd,NCAA,47149
+10/3/20,Yes,Florida Atlantic Owls,Charlotte 49ers,-80.102293,26.372536,6,FAU Stadium,NCAA,12099
+10/3/20,Yes,Georgia State Panthers,East Carolina Pirates,-84.38667,33.7527,6,Center Parc Stadium,NCAA,13121
+12/5/20,Yes,South Alabama Jaguars,Troy Trojans,-88.18189,30.695081,6,Hancock Whitney,NCAA,01097
+10/3/20,No,Cincinnati Bearcats,South Florida Bulls,-84.51428,39.131159,6,Nippert Stadium,NCAA,39061
+10/3/20,Yes,Alabama Crimson Tide,Texas A&M Aggies,-87.545766,33.2144,6,Bryant-Denny Stadium,NCAA,01125
+10/3/20,Yes,Mississippi State Bulldogs,Arkansas Razorbacks,-88.879658,33.425002,6,Davis Wade Stadium,NCAA,28105
+10/3/20,Yes,Vanderbilt Commodores,Louisiana State Fighting Tigers,-86.804875,36.14443,6,Vanderbilt Stadium,NCAA,47037
+10/3/20,Yes,Florida Gators,South Carolina Gamecocks,-82.361195,29.638248,6,Ben Hill Griffin,NCAA,12001
+10/3/20,Yes,Georgia Bulldogs,Auburn Tigers,-83.373847,33.943487,6,Sanford Stadium,NCAA,13059
+10/3/20,Yes,Central Florida Knights,Tulsa Golden Hurricanes,-81.198805,28.60106,6,Bounce House,NCAA,12095
+10/3/20,Yes,Liberty Flames,North Alabama Lions,-79.179688,37.350345,6,Williams Stadium,NCAA,51031
+10/3/20,No,Boston College Eagles,North Carolina Tar Heels,-71.171488,42.337688,6,Alumni Stadium,NCAA,25017
+10/3/20,Yes,Alabama-Birmingham Blazers,UTSA Roadrunners,-86.80917,33.50223,6,Legion Field,NCAA,01073
+12/5/20,Yes,Marshall Thundering Herd,Rice Owls,-82.43065,38.42261,6,Joan C. Edwards,NCAA,54011
+10/3/20,Yes,Coastal Carolina Chanticleers,Arkansas State Red Wolves,-79.012599,33.794734,6,Brooks Stadium,NCAA,45051
+10/3/20,Yes,North Texas Mean Green,Southern Mississippi Golden Eagles,-97.151211,33.210958,6,Apogee Stadium,NCAA,48121
+10/3/20,No,Duke Blue Devils,Virginia Polytechnic Hokies,-78.94226,36.00159,6,Wallace Wade Stadium,NCAA,37063
+10/3/20,Yes,Clemson Tigers,Virginia Cavaliers,-82.834463,34.677329,6,Memorial Stadium,NCAA,45077
+10/3/20,No,Pittsburgh Panthers,North Carolina State Wolfpack,-79.954692,40.444502,6,Heinz Field,NCAA,42003
+10/3/20,Yes,West Virginia Mountaineers,Baylor Bears,-79.953926,39.63468,6,Milan Puskar Stadium,NCAA,54061
+10/3/20,Yes,Texas Longhorns,Texas Christian Horned Frogs,-97.737277,30.28473,6,DKR Texas Memorial,NCAA,48453
+10/3/20,Yes,Kansas Jayhawks,Oklahoma State Cowboys,-95.24587,38.957351,6,Booth Memorial,NCAA,20045
+10/3/20,Yes,Kansas State Wildcats,Texas Tech Red Raiders,-96.581077,39.188616,6,Snyder Stadium,NCAA,20161
+10/3/20,Yes,Kentucky Wildcats,Mississippi Rebels,-84.510698,38.028081,6,Kroger Field,NCAA,21067
+10/3/20,Yes,Tennessee Volunteers,Missouri Tigers,-83.929696,35.955093,6,Neyland Stadium,NCAA,47093
+10/3/20,Yes,Iowa State Cyclones,Oklahoma Sooners,-93.648353,42.026368,6,Jack Trice Stadium,NCAA,19169
+10/3/20,Yes,North Dakota State Bison,Central Arkansas Bears,-96.805689,46.894523,6,Fargodome,NCAA,38017
+10/3/20,Yes,Louisiana-Monroe Warhawks,Georgia Southern Eagles,-92.073855,32.527957,6,Malone Stadium,NCAA,22073
+12/4/20,Yes,Appalachian State Mountaineers,Louisiana-Lafayette Ragin Cajuns,-81.662569,36.201658,7,Kidd Brewer Stadium,NCAA,37189
+10/10/20,Yes,Troy Trojans,Texas State Bobcats,-85.950191,31.800128,7,Veterans Memorial,NCAA,01109
+10/8/20,Yes,Houston Cougars,Tulane Green Wave,-95.344851,29.719988,7,TDECU Stadium,NCAA,48201
+10/9/20,Yes,Georgia Tech Yellow Jackets,Louisville Cardinals,-84.396019,33.773732,7,Bobby Dodd Stadium,NCAA,13121
+10/10/20,Yes,Oklahoma Sooners,Texas Longhorns,-97.445692,35.208152,7,Cotton Bowl,NCAA,40027
+10/10/20,Yes,Jacksonville State Gamecocks,Mercer Bears,-85.766644,33.822128,7,Burgess-Snow Field,NCAA,01015
+10/24/20,Yes,Eastern Kentucky Colonels,Central Arkansas Bears,-84.301356,37.740396,7,Roy Kidd Stadium,NCAA,21151
+10/10/20,Yes,Army Black Knights,Citadel Bulldogs,-73.956804,41.390882,7,Michie Stadium,NCAA,36071
+12/12/20,Yes,Rice Owls,Alabama-Birmingham Blazers,-95.403625,29.716485,7,Rice Stadium,NCAA,48201
+10/10/20,Yes,Florida International Golden Panthers,Middle Tennessee Blue Raiders,-80.377591,25.757111,7,Riccardo Silva,NCAA,12086
+10/10/20,Yes,South Florida Bulls,East Carolina Pirates,-82.415876,28.056647,7,Raymond James,NCAA,12057
+10/10/20,Yes,Texas A&M Aggies,Florida Gators,-96.306732,30.596291,7,Kyle Field,NCAA,48041
+10/10/20,Yes,Missouri Tigers,Louisiana State Fighting Tigers,-92.326429,38.941015,7,Memorial Stadium,NCAA,29019
+10/10/20,Yes,Mississippi Rebels,Alabama Crimson Tide,-89.539377,34.362144,7,Vaught-Hemingway,NCAA,28071
+10/10/20,Yes,Vanderbilt Commodores,South Carolina Gamecocks,-86.804875,36.14443,7,Vanderbilt Stadium,NCAA,47037
+10/10/20,Yes,Georgia Bulldogs,Tennessee Volunteers,-83.373847,33.943487,7,Sanford Stadium,NCAA,13059
+10/10/20,Yes,Western Kentucky Hilltoppers,Marshall Thundering Herd,-86.455898,36.985718,7,Houchens-Smith,NCAA,21227
+10/10/20,Yes,Liberty Flames,Louisiana-Monroe Warhawks,-79.179688,37.350345,7,Williams Stadium,NCAA,51031
+10/10/20,Yes,North Carolina Tar Heels,Virginia Polytechnic Hokies,-79.050969,35.912165,7,Kenan Stadium,NCAA,37135
+10/10/20,No,Boston College Eagles,Pittsburgh Panthers,-71.171488,42.337688,7,Alumni Stadium,NCAA,25017
+10/10/20,Yes,Virginia Cavaliers,North Carolina State Wolfpack,38.041231,-78.51315,7,Scott Stadium,NCAA,51003
+10/10/20,Yes,North Texas Mean Green,Charlotte 49ers,-97.151211,33.210958,7,Apogee Stadium,NCAA,48121
+10/10/20,Yes,Clemson Tigers,Miami Hurricanes,-82.834463,34.677329,7,Memorial Stadium,NCAA,45077
+10/10/20,Yes,Notre Dame Fighting Irish,Florida State Seminoles,-86.289848,41.616717,7,Notre Dame Stadium,NCAA,18141
+10/10/20,No,Syracuse Orangemen,Duke Blue Devils,-76.135062,43.037587,7,Carrier Dome,NCAA,36067
+10/10/20,No,Texas Christian Horned Frogs,Kansas State Wildcats,-97.361537,32.709568,7,Amon G. Carter,NCAA,48439
+10/10/20,Yes,Kentucky Wildcats,Mississippi State Bulldogs,-84.510698,38.028081,7,Kroger Field,NCAA,21067
+12/10/20,No,Southern Mississippi Golden Eagles,Florida Atlantic Owls,-89.33791,31.327499,7,The Rock,NCAA,28035
+10/10/20,Yes,Louisiana Tech Bulldogs,Texas-El Paso Miners,-92.64964,32.525518,7,Joe Aillet Stadium,NCAA,22061
+10/10/20,Yes,Auburn Tigers,Arkansas Razorbacks,-85.492409,32.600201,7,Jordan-Hare Stadium,NCAA,01081
+10/10/20,Yes,Iowa State Cyclones,Texas Tech Red Raiders,-93.648353,42.026368,7,Jack Trice Stadium,NCAA,19169
+10/24/20,Yes,Texas Tech Red Raiders,West Virginia Mountaineers,-101.876917,33.580309,8,Jones AT&T Stadium,NCAA,48303
+12/12/20,Yes,Georgia Southern Eagles,Appalachian State Mountaineers,-81.779908,32.427341,8,Allen E. Paulson,NCAA,13031
+10/15/20,Yes,Arkansas State Red Wolves,Georgia State Panthers,-90.680478,35.842779,8,Centennial Bank,NCAA,05031
+10/16/20,Yes,Houston Cougars,Brigham Young Cougars,-95.344851,29.719988,8,TDECU Stadium,NCAA,48201
+10/17/20,Yes,Memphis Tigers,Central Florida Knights,-89.993508,35.115864,8,Liberty Bowl,NCAA,47157
+10/17/20,Yes,North Alabama Lions,Jacksonville State Gamecocks,-87.680999,34.80658,8,Braly Municipal,NCAA,01077
+10/17/20,Yes,UTSA Roadrunners,Army Black Knights,-98.621386,29.582418,8,Alamodome,NCAA,48029
+10/17/20,Yes,Middle Tennessee Blue Raiders,North Texas Mean Green,-86.362094,35.849139,8,Floyd,NCAA,47149
+10/17/20,Yes,Troy Trojans,Eastern Kentucky Colonels,-85.950191,31.800128,8,Veterans Memorial,NCAA,01109
+10/17/20,Yes,South Alabama Jaguars,Texas State Bobcats,-88.18189,30.695081,8,Hancock Whitney,NCAA,01097
+10/17/20,Yes,Temple Owls,South Florida Bulls,-75.158267,39.980943,8,Lincoln Fin. Field,NCAA,42101
+10/16/20,No,Tulane Green Wave,Southern Methodist Mustangs,-90.120409,29.939696,8,Yulman Stadium,NCAA,22071
+10/17/20,Yes,Arkansas Razorbacks,Mississippi Rebels,-94.178214,36.06153,8,DWRRS,NCAA,05143
+10/17/20,Yes,Alabama Crimson Tide,Georgia Bulldogs,-87.545766,33.2144,8,Bryant-Denny Stadium,NCAA,01125
+10/17/20,Yes,Mississippi State Bulldogs,Texas A&M Aggies,-88.879658,33.425002,8,Davis Wade Stadium,NCAA,28105
+10/17/20,Yes,East Carolina Pirates,Navy Midshipmen,-77.366199,35.606347,8,Dowdy-Ficklen,NCAA,37147
+12/12/20,Yes,Florida Gators,Louisiana State Fighting Tigers,-82.361195,29.638248,8,Ben Hill Griffin,NCAA,12001
+11/28/20,Yes,Missouri Tigers,Vanderbilt Commodores,-92.326429,38.941015,8,Memorial Stadium,NCAA,29019
+10/17/20,Yes,Wake Forest Demon Deacons,Virginia Cavaliers,-80.279004,36.135301,8,Truist Field,NCAA,37067
+10/17/20,Yes,Virginia Polytechnic Hokies,Boston College Eagles,-80.434849,37.237477,8,Lane/Worsham Field,NCAA,51121
+10/17/20,Yes,Alabama-Birmingham Blazers,Western Kentucky Hilltoppers,-86.80917,33.50223,8,Legion Field,NCAA,01073
+10/17/20,No,Notre Dame Fighting Irish,Louisville Cardinals,-86.289848,41.616717,8,Notre Dame Stadium,NCAA,18141
+10/17/20,No,Syracuse Orangemen,Liberty Flames,-76.135062,43.037587,8,Carrier Dome,NCAA,36067
+10/17/20,Yes,Georgia Tech Yellow Jackets,Clemson Tigers,-84.396019,33.773732,8,Bobby Dodd Stadium,NCAA,13121
+10/17/20,Yes,Miami Hurricanes,Pittsburgh Panthers,-80.27645,25.720406,8,Hard Rock Stadium,NCAA,12086
+10/17/20,Yes,West Virginia Mountaineers,Kansas Jayhawks,-79.953926,39.63468,8,Milan Puskar Stadium,NCAA,54061
+12/12/20,Yes,Baylor Bears,Oklahoma State Cowboys,-97.119359,31.545956,8,McLane Stadium,NCAA,48309
+10/17/20,Yes,South Carolina Gamecocks,Auburn Tigers,-81.037739,34.006153,8,Williams-Brice Stad.,NCAA,45079
+10/14/20,Yes,Louisiana-Lafayette Ragin Cajuns,Coastal Carolina Chanticleers,-92.01941,30.215283,8,Cajun Field,NCAA,22055
+10/17/20,Yes,North Carolina State Wolfpack,Duke Blue Devils,-78.674517,35.785111,8,Carter-Finley,NCAA,37183
+10/17/20,Yes,Florida State Seminoles,North Carolina Tar Heels,-84.290883,30.439741,8,Doak Campbell Stadium,NCAA,12073
+10/17/20,Yes,Tennessee Volunteers,Kentucky Wildcats,-83.929696,35.955093,8,Neyland Stadium,NCAA,47093
+10/17/20,Yes,Louisiana Tech Bulldogs,Marshall Thundering Herd,-92.64964,32.525518,8,Joe Aillet Stadium,NCAA,22061
+10/17/20,Yes,Missouri State Bears,Central Arkansas Bears,-93.276821,37.197983,8,RbtW Plaster Stadium,NCAA,29077
+10/24/20,Yes,South Alabama Jaguars,Louisiana-Monroe Warhawks,-88.18189,30.695081,9,Hancock Whitney,NCAA,01097
+10/23/20,Yes,South Florida Bulls,Tulsa Golden Hurricanes,-82.415876,28.056647,9,Raymond James,NCAA,12057
+10/23/20,Yes,Alabama-Birmingham Blazers,Louisiana-Lafayette Ragin Cajuns,-86.80917,33.50223,9,Legion FIeld,NCAA,01073
+10/24/20,Yes,Army Black Knights,Mercer Bears,-73.956804,41.390882,9,Michie Stadium,NCAA,36071
+10/24/20,No,Rice Owls,Middle Tennessee Blue Raiders,-95.403625,29.716485,9,Rice Stadium,NCAA,48201
+10/24/20,Yes,UTSA Roadrunners,Louisiana Tech Bulldogs,-98.621386,29.582418,9,Alamodome,NCAA,48029
+10/24/20,Yes,Troy Trojans,Georgia State Panthers,-85.950191,31.800128,9,Veterans Memorial,NCAA,01109
+10/22/20,Yes,Appalachian State Mountaineers,Arkansas State Red Wolves,-81.662569,36.201658,9,Kidd Brewer Stadium,NCAA,37189
+10/24/20,Yes,Navy Midshipmen,Houston Cougars,-76.481692,38.980507,9,Navy-Marine Corps MS,NCAA,24003
+10/24/20,Yes,Memphis Tigers,Temple Owls,-89.993508,35.115864,9,Liberty Bowl,NCAA,47157
+10/24/20,Yes,Louisiana State Fighting Tigers,South Carolina Gamecocks,-91.196656,30.552111,9,Tiger Stadium,NCAA,22033
+10/24/20,Yes,Mississippi Rebels,Auburn Tigers,-89.539377,34.362144,9,Vaught-Hemingway,NCAA,28071
+10/31/20,Yes,Florida Gators,Missouri Tigers,-82.361195,29.638248,9,Ben Hill Griffin,NCAA,12001
+10/24/20,Yes,Charlotte 49ers,Texas-El Paso Miners,-80.73579,35.306834,9,Richardson Stadium,NCAA,37119
+10/24/20,Yes,Western Kentucky Hilltoppers,Tennessee-Chattanooga Mocs,-86.455898,36.985718,9,Houchens-Smith,NCAA,21227
+10/24/20,Yes,Central Florida Knights,Tulane Green Wave,-81.198805,28.60106,9,Bounce House,NCAA,12095
+10/24/20,Yes,Liberty Flames,Southern Mississippi Golden Eagles,-79.179688,37.350345,9,Williams Stadium,NCAA,51031
+10/24/20,Yes,North Carolina Tar Heels,North Carolina State Wolfpack,-79.050969,35.912165,9,Kenan Stadium,NCAA,37135
+10/24/20,Yes,Wake Forest Demon Deacons,Virginia Polytechnic Hokies,-80.279004,36.135301,9,Truist Field,NCAA,37067
+10/24/20,No,Boston College Eagles,Georgia Tech Yellow Jackets,-71.171488,42.337688,9,Alumni Stadium,NCAA,25017
+10/24/20,Yes,Marshall Thundering Herd,Florida Atlantic Owls,-82.43065,38.42261,9,Joan C. Edwards,NCAA,54011
+10/24/20,Yes,Coastal Carolina Chanticleers,Georgia Southern Eagles,-79.012599,33.794734,9,Brooks Stadium,NCAA,45051
+10/24/20,Yes,Clemson Tigers,Syracuse Orangemen,-82.834463,34.677329,9,Memorial Stadium,NCAA,45077
+10/24/20,Yes,Pittsburgh Panthers,Notre Dame Fighting Irish,-79.954692,40.444502,9,Heinz Field,NCAA,42003
+10/24/20,Yes,Miami Hurricanes,Virginia Cavaliers,-80.27645,25.720406,9,Hard Rock Stadium,NCAA,12086
+10/24/20,Yes,Oklahoma State Cowboys,Iowa State Cyclones,-97.069743,36.123085,9,Boone Pickens Stadium,NCAA,40119
+10/24/20,Yes,Texas Longhorns,Baylor Bears,-97.737277,30.28473,9,DKR Texas Memorial,NCAA,48453
+10/24/20,Yes,Texas Christian Horned Frogs,Oklahoma Sooners,-97.361537,32.709568,9,Amon G. Carter,NCAA,48439
+10/24/20,Yes,Kansas State Wildcats,Kansas Jayhawks,-96.581077,39.188616,9,Snyder Stadium,NCAA,20161
+10/31/20,Yes,Kentucky Wildcats,Georgia Bulldogs,-84.510698,38.028081,9,Kroger Field,NCAA,21067
+10/24/20,Yes,Louisville Cardinals,Florida State Seminoles,-85.758843,38.215752,9,Cardinal Stadium,NCAA,21111
+10/24/20,Yes,Tennessee Volunteers,Alabama Crimson Tide,-83.929696,35.955093,9,Neyland Stadium,NCAA,47093
+10/24/20,Yes,Southern Methodist Mustangs,Cincinnati Bearcats,-96.784855,32.845254,9,Ford Stadium,NCAA,48113
+10/31/20,Yes,Georgia State Panthers,Coastal Carolina Chanticleers,-84.38667,33.7527,10,Center Parc Stadium,NCAA,13121
+10/30/20,No,Tulsa Golden Hurricanes,East Carolina Pirates,-95.945175,36.151887,10,H.A. Chapman Stadium,NCAA,40143
+10/31/20,Yes,Brigham Young Cougars,Western Kentucky Hilltoppers,-111.649281,40.250851,10,LaVell Edwards,NCAA,49049
+12/11/20,Yes,Texas-El Paso Miners,North Texas Mean Green,-106.50356,31.771697,10,Apogee Stadium,NCAA,48141
+10/31/20,Yes,Florida Atlantic Owls,UTSA Roadrunners,-80.102293,26.372536,10,FAU Stadium,NCAA,12099
+10/31/20,Yes,Texas State Bobcats,Louisiana-Lafayette Ragin Cajuns,-97.936392,29.889202,10,Bobcat Stadium,NCAA,48209
+10/31/20,Yes,Louisiana-Monroe Warhawks,Appalachian State Mountaineers,-92.073855,32.527957,10,Malone Stadium,NCAA,22073
+10/31/20,Yes,Arkansas State Red Wolves,Troy Trojans,-90.680478,35.842779,10,Centennial Bank,NCAA,05031
+10/31/20,Yes,Tulane Green Wave,Temple Owls,-90.120409,29.939696,10,Yulman Stadium,NCAA,22071
+10/31/20,Yes,Houston Cougars,Central Florida Knights,-95.344851,29.719988,10,TDECU Stadium,NCAA,48201
+10/31/20,No,Cincinnati Bearcats,Memphis Tigers,-84.51428,39.131159,10,Nippert Stadium,NCAA,39061
+10/31/20,Yes,Texas A&M Aggies,Arkansas Razorbacks,-96.306732,30.596291,10,Kyle Field,NCAA,48041
+10/31/20,Yes,Alabama Crimson Tide,Mississippi State Bulldogs,-87.545766,33.2144,10,Bryant-Denny Stadium,NCAA,01125
+10/31/20,Yes,Vanderbilt Commodores,Mississippi Rebels,-86.804875,36.14443,10,Vanderbilt Stadium,NCAA,47037
+10/24/20,Yes,Missouri Tigers,Kentucky Wildcats,-92.326429,38.941015,10,Memorial Stadium,NCAA,29019
+11/14/20,Yes,Central Arkansas Bears,Eastern Kentucky Colonels,-92.45931,35.078196,10,Estes Stadium,NCAA,05045
+10/31/20,Yes,Virginia Cavaliers,North Carolina Tar Heels,38.041231,-78.51315,10,Smith/Harrison/Scott,NCAA,51003
+10/31/20,No,Duke Blue Devils,Charlotte 49ers,-78.94226,36.00159,10,Wallace Wade Stadium,NCAA,37063
+10/31/20,Yes,Clemson Tigers,Boston College Eagles,-82.834463,34.677329,10,Memorial Stadium,NCAA,45077
+10/31/20,No,Syracuse Orangemen,Wake Forest Demon Deacons,-76.135062,43.037587,10,Carrier Dome,NCAA,36067
+10/31/20,Yes,Georgia Tech Yellow Jackets,Notre Dame Fighting Irish,-84.396019,33.773732,10,Bobby Dodd Stadium,NCAA,13121
+10/31/20,Yes,West Virginia Mountaineers,Kansas State Wildcats,-79.953926,39.63468,10,Milan Puskar Stadium,NCAA,54061
+10/31/20,Yes,Texas Tech Red Raiders,Oklahoma Sooners,-101.876917,33.580309,10,Jones AT&T Stadium,NCAA,48303
+10/31/20,Yes,Oklahoma State Cowboys,Texas Longhorns,-97.069743,36.123085,10,Boone Pickens Stadium,NCAA,40119
+10/31/20,Yes,Kansas Jayhawks,Iowa State Cyclones,-95.24587,38.957351,10,Booth Memorial,NCAA,20045
+10/31/20,Yes,Baylor Bears,Texas Christian Horned Frogs,-97.119359,31.545956,10,McLane Stadium,NCAA,48309
+10/31/20,Yes,Louisville Cardinals,Virginia Polytechnic Hokies,-85.758843,38.215752,10,Cardinal Stadium,NCAA,21111
+10/31/20,No,Southern Mississippi Golden Eagles,Rice Owls,-89.33791,31.327499,10,The Rock,NCAA,28035
+10/31/20,Yes,Louisiana Tech Bulldogs,Alabama-Birmingham Blazers,-92.64964,32.525518,10,Joe Aillet Stadium,NCAA,22061
+10/31/20,Yes,Auburn Tigers,Louisiana State Fighting Tigers,-85.492409,32.600201,10,Jordan-Hare,NCAA,01081
+10/29/20,Yes,Georgia Southern Eagles,South Alabama Jaguars,-81.779908,32.427341,10,Allen E. Paulson,NCAA,13031
+10/31/20,Yes,Southern Methodist Mustangs,Navy Midshipmen,-96.784855,32.845254,10,Ford Stadium,NCAA,48113
+11/7/20,Yes,Temple Owls,Southern Methodist Mustangs,-75.158267,39.980943,11,Lincoln Fin. Field,NCAA,42101
+11/7/20,Yes,Louisiana-Lafayette Ragin Cajuns,Arkansas State Red Wolves,-92.01941,30.215283,11,Cajun Field,NCAA,22055
+11/6/20,Yes,North Carolina State Wolfpack,Miami Hurricanes,-78.674517,35.785111,11,Carter-Finley,NCAA,37183
+11/7/20,Yes,Georgia Bulldogs,Florida Gators,-83.373847,33.943487,11,TIAA Bank Field,NCAA,13059
+11/7/20,Yes,Eastern Kentucky Colonels,Stephen F. Austin Lumberjacks,-84.301356,37.740396,11,Roy Kidd Stadium,NCAA,21151
+12/19/20,Yes,Army Black Knights,Air Force Academy Falcons,-73.956804,41.390882,11,Michie Stadium,NCAA,36071
+11/7/20,Yes,Florida Atlantic Owls,Western Kentucky Hilltoppers,-80.102293,26.372536,11,FAU Stadium,NCAA,12099
+11/7/20,Yes,Texas State Bobcats,Appalachian State Mountaineers,-97.936392,29.889202,11,Bobcat Stadium,NCAA,48209
+11/7/20,Yes,Georgia State Panthers,Louisiana-Monroe Warhawks,-84.38667,33.7527,11,Center Parc Stadium,NCAA,13121
+12/5/20,No,Navy Midshipmen,Tulsa Golden Hurricanes,-76.481692,38.980507,11,Navy Marine Corps MS,NCAA,24003
+11/7/20,No,Cincinnati Bearcats,Houston Cougars,-84.51428,39.131159,11,Nippert Stadium,NCAA,39061
+11/7/20,Yes,Memphis Tigers,South Florida Bulls,-89.993508,35.115864,11,Liberty Bowl,NCAA,47157
+11/7/20,Yes,Arkansas Razorbacks,Tennessee Volunteers,-94.178214,36.06153,11,DWRRS,NCAA,05143
+11/7/20,Yes,East Carolina Pirates,Tulane Green Wave,-77.366199,35.606347,11,Dowdy-Ficklen,NCAA,37147
+11/7/20,Yes,Mississippi State Bulldogs,Vanderbilt Commodores,-88.879658,33.425002,11,Davis Wade Stadium,NCAA,28105
+11/7/20,Yes,Virginia Polytechnic Hokies,Liberty Flames,-80.434849,37.237477,11,Lane/Worsham Field,NCAA,51121
+11/7/20,Yes,Coastal Carolina Chanticleers,South Alabama Jaguars,-79.012599,33.794734,11,Brooks Stadium,NCAA,45051
+11/14/20,Yes,Virginia Cavaliers,Louisville Cardinals,38.041231,-78.51315,11,Smith/Harrison/Scott,NCAA,51003
+12/3/20,Yes,North Texas Mean Green,Louisiana Tech Bulldogs,-97.151211,33.210958,11,Apogee Stadium,NCAA,48121
+11/7/20,No,Duke Blue Devils,North Carolina Tar Heels,-78.94226,36.00159,11,Wallace Wade Stadium,NCAA,37063
+11/7/20,Yes,Notre Dame Fighting Irish,Clemson Tigers,-86.289848,41.616717,11,Notre Dame Stadium,NCAA,18141
+11/7/20,No,Syracuse Orangemen,Boston College Eagles,-76.135062,43.037587,11,Carrier Dome,NCAA,36067
+11/7/20,Yes,Texas Longhorns,West Virginia Mountaineers,-97.737277,30.28473,11,DKR Texas Memorial,NCAA,48453
+11/7/20,Yes,Texas Christian Horned Frogs,Texas Tech Red Raiders,-97.361537,32.709568,11,Amon G. Carter,NCAA,48439
+11/7/20,Yes,Kansas State Wildcats,Oklahoma State Cowboys,-96.581077,39.188616,11,Snyder Stadium,NCAA,20161
+11/7/20,Yes,South Carolina Gamecocks,Texas A&M Aggies,-81.037739,34.006153,11,Williams-Brice Stad.,NCAA,45079
+11/7/20,Yes,Florida State Seminoles,Pittsburgh Panthers,-84.290883,30.439741,11,Doak Campbell,NCAA,12073
+11/7/20,No,Southern Mississippi Golden Eagles,North Alabama Lions,-89.33791,31.327499,11,The Rock,NCAA,28035
+11/7/20,Yes,Iowa State Cyclones,Baylor Bears,-93.648353,42.026368,11,Jack Trice Stadium,NCAA,19169
+11/7/20,Yes,Oklahoma Sooners,Kansas Jayhawks,-97.445692,35.208152,11,Memorial Stadium,NCAA,40027
+11/7/20,Yes,Georgia Southern Eagles,Troy Trojans,-81.779908,32.427341,11,Allen E. Paulson,NCAA,13031
+11/13/20,No,Cincinnati Bearcats,East Carolina Pirates,-84.51428,39.131159,12,Nippert Stadium,NCAA,39061
+11/14/20,Yes,UTSA Roadrunners,Texas-El Paso Miners,-98.621386,29.582418,12,Alamodome,NCAA,48029
+11/13/20,Yes,Florida International Golden Panthers,Florida Atlantic Owls,-80.377591,25.757111,12,Riccardo Silva,NCAA,12086
+12/12/20,Yes,Troy Trojans,Coastal Carolina Chanticleers,-85.950191,31.800128,12,Veterans Memorial,NCAA,01109
+11/14/20,Yes,Appalachian State Mountaineers,Georgia State Panthers,-81.662569,36.201658,12,Kidd Brewer,NCAA,37189
+12/5/20,Yes,Arkansas State Red Wolves,Louisiana-Monroe Warhawks,-90.680478,35.842779,12,Centennial Bank,NCAA,05031
+11/28/20,No,Navy Midshipmen,Memphis Tigers,-76.481692,38.980507,12,Navy Marine Corps MS,NCAA,24003
+11/14/20,Yes,Tulsa Golden Hurricanes,Southern Methodist Mustangs,-95.945175,36.151887,12,Chapman Stadium,NCAA,40143
+11/14/20,Yes,Tulane Green Wave,Army Black Knights,-90.120409,29.939696,12,Yulman Stadium,NCAA,22071
+11/14/20,Yes,Houston Cougars,South Florida Bulls,-95.344851,29.719988,12,TDECU Stadium,NCAA,48201
+12/5/20,Yes,Louisiana State Fighting Tigers,Alabama Crimson Tide,-91.196656,30.552111,12,Tiger Stadium,NCAA,22033
+11/14/20,Yes,Mississippi Rebels,South Carolina Gamecocks,-89.539377,34.362144,12,Vaught-Hemingway,NCAA,28071
+12/12/20,Yes,Mississippi State Bulldogs,Auburn Tigers,-88.879658,33.425002,12,David Wade Stadium,NCAA,28105
+11/14/20,Yes,Florida Gators,Arkansas Razorbacks,-82.361195,29.638248,12,Ben Hill Griffin,NCAA,12001
+12/12/20,Yes,Missouri Tigers,Georgia Bulldogs,-92.326429,38.941015,12,Memorial Stadium,NCAA,29019
+11/14/20,Yes,Western Kentucky Hilltoppers,Southern Mississippi Golden Eagles,-86.455898,36.985718,12,Houchens-Smith,NCAA,21227
+11/14/20,Yes,Central Florida Knights,Temple Owls,-81.198805,28.60106,12,Bounce House,NCAA,12095
+11/14/20,Yes,Liberty Flames,Western Carolina Catamounts,-79.179688,37.350345,12,Williams Stadium,NCAA,51031
+11/14/20,Yes,North Carolina Tar Heels,Wake Forest Demon Deacons,-79.050969,35.912165,12,Kenan Stadium,NCAA,37135
+11/14/20,Yes,Virginia Polytechnic Hokies,Miami Hurricanes,-80.434849,37.237477,12,Lane/Worsham Field,NCAA,51121
+11/14/20,No,Boston College Eagles,Notre Dame Fighting Irish,-71.171488,42.337688,12,Alumni Stadium,NCAA,25017
+11/14/20,Yes,Marshall Thundering Herd,Middle Tennessee Blue Raiders,-82.43065,38.42261,12,Joan C. Edwards,NCAA,54011
+9/26/20,Yes,Virginia Cavaliers,Duke Blue Devils,38.041231,-78.51315,12,Smith/Harrison/Scott,NCAA,51003
+12/10/20,Yes,Georgia Tech Yellow Jackets,Pittsburgh Panthers,-84.396019,33.773732,12,Bobby Dodd Stadium,NCAA,13121
+11/14/20,Yes,West Virginia Mountaineers,Texas Christian Horned Frogs,-79.953926,39.63468,12,Milan Puskar Stadium,NCAA,54061
+11/14/20,Yes,Texas Tech Red Raiders,Baylor Bears,-101.876917,33.580309,12,Jones AT&T Stadium,NCAA,48303
+11/14/20,Yes,Louisiana-Lafayette Ragin Cajuns,South Alabama Jaguars,-92.01941,30.215283,12,Cajun Field,NCAA,22055
+11/14/20,Yes,North Carolina State Wolfpack,Florida State Seminoles,-78.674517,35.785111,12,Carter-Finley,NCAA,37183
+11/14/20,Yes,Kentucky Wildcats,Vanderbilt Commodores,-84.510698,38.028081,12,Kroger Field,NCAA,21067
+12/19/20,Yes,Tennessee Volunteers,Texas A&M Aggies,-83.929696,35.955093,12,Neyland Stadium,NCAA,47093
+11/14/20,Yes,Georgia Southern Eagles,Texas State Bobcats,-81.779908,32.427341,12,Allen E. Paulson,NCAA,13031
+11/20/20,Yes,Louisville Cardinals,Syracuse Orangemen,-85.758843,38.215752,13,Cardinal Stadium,NCAA,21111
+11/21/20,Yes,Eastern Kentucky Colonels,Western Carolina Catamounts,-84.301356,37.740396,13,Roy Kidd Stadium,NCAA,21151
+11/21/20,No,Brigham Young Cougars,North Alabama Lions,-111.649281,40.250851,13,LaVell Edwards,NCAA,49049
+11/21/20,Yes,Army Black Knights,Georgia Southern Eagles,-73.956804,41.390882,13,Michie Stadium,NCAA,36071
+11/21/20,Yes,Troy Trojans,Middle Tennessee Blue Raiders,-85.950191,31.800128,13,Veterans Memorial,NCAA,01109
+11/21/20,Yes,Texas State Bobcats,Arkansas State Red Wolves,-97.936392,29.889202,13,Bobcat Stadium,NCAA,48209
+11/21/20,Yes,South Alabama Jaguars,Georgia State Panthers,-88.18189,30.695081,13,Hancock Whitney,NCAA,01097
+11/21/20,No,Temple Owls,East Carolina Pirates,-75.158267,39.980943,13,Lincoln Fin. Field,NCAA,42101
+11/19/20,No,Tulsa Golden Hurricanes,Tulane Green Wave,-95.945175,36.151887,13,Chapman Stadium,NCAA,40143
+11/21/20,Yes,Arkansas Razorbacks,Louisiana State Fighting Tigers,-94.178214,36.06153,13,DWRRS,NCAA,05143
+11/21/20,Yes,Alabama Crimson Tide,Kentucky Wildcats,-87.545766,33.2144,13,Bryant-Denny Stadium,NCAA,01125
+11/21/20,Yes,Vanderbilt Commodores,Florida Gators,-86.804875,36.14443,13,Vanderbilt Stadium,NCAA,47037
+11/21/20,Yes,Georgia Bulldogs,Mississippi State Bulldogs,-83.373847,33.943487,13,Sanford Stadium,NCAA,13059
+11/21/20,Yes,Western Kentucky Hilltoppers,Florida International Golden Panthers,-86.455898,36.985718,13,Houchens-Smith,NCAA,21227
+11/21/20,Yes,Central Florida Knights,Cincinnati Bearcats,-81.198805,28.60106,13,Bounce House,NCAA,12095
+11/21/20,Yes,Coastal Carolina Chanticleers,Appalachian State Mountaineers,-79.012599,33.794734,13,Brooks Stadium,NCAA,45051
+11/21/20,Yes,North Texas Mean Green,Rice Owls,-97.151211,33.210958,13,Apogee Stadium,NCAA,48121
+11/21/20,Yes,Pittsburgh Panthers,Virginia Polytechnic Hokies,-79.954692,40.444502,13,Heinz Field,NCAA,42003
+11/21/20,Yes,South Carolina Gamecocks,Missouri Tigers,-81.037739,34.006153,13,Williams-Brice Stad.,NCAA,45079
+11/21/20,Yes,North Carolina State Wolfpack,Liberty Flames,-78.674517,35.785111,13,Carter-Finley,NCAA,37183
+11/21/20,No,Southern Mississippi Golden Eagles,UTSA Roadrunners,-89.33791,31.327499,13,The Rock,NCAA,28035
+11/21/20,Yes,Auburn Tigers,Tennessee Volunteers,-85.492409,32.600201,13,Jordan-Hare,NCAA,01081
+11/21/20,No,Iowa State Cyclones,Kansas State Wildcats,-93.648353,42.026368,13,Jack Trice Stadium,NCAA,19169
+11/21/20,Yes,Oklahoma Sooners,Oklahoma State Cowboys,-97.445692,35.208152,13,Memorial Stadium,NCAA,40027
+11/27/20,Yes,South Florida Bulls,Central Florida Knights,-82.415876,28.056647,14,Raymond James,NCAA,12057
+11/27/20,Yes,North Carolina Tar Heels,Notre Dame Fighting Irish,-79.050969,35.912165,14,Kenan Stadium,NCAA,37135
+11/28/20,No,Boston College Eagles,Louisville Cardinals,-71.171488,42.337688,14,Alumni Stadium,NCAA,25017
+11/28/20,Yes,UTSA Roadrunners,North Texas Mean Green,-98.621386,29.582418,14,Alamodome,NCAA,48029
+11/28/20,Yes,Texas State Bobcats,Coastal Carolina Chanticleers,-97.936392,29.889202,14,Bobcat Stadium,NCAA,48209
+11/28/20,Yes,Louisiana-Monroe Warhawks,Louisiana-Lafayette Ragin Cajuns,-92.073855,32.527957,14,Malone Stadium,NCAA,22073
+11/28/20,Yes,Appalachian State Mountaineers,Troy Trojans,-81.662569,36.201658,14,Kidd Brewer Stadium,NCAA,37189
+11/28/20,Yes,Georgia State Panthers,Georgia Southern Eagles,-84.38667,33.7527,14,Center Parc Stadium,NCAA,13121
+11/28/20,Yes,Arkansas State Red Wolves,South Alabama Jaguars,-90.680478,35.842779,14,Centennial Bank,NCAA,05031
+12/5/20,Yes,Tulane Green Wave,Memphis Tigers,-90.120409,29.939696,14,Yulman Stadium,NCAA,22071
+11/28/20,Yes,Texas A&M Aggies,Louisiana State Fighting Tigers,-96.306732,30.596291,14,Kyle Field,NCAA,48041
+11/28/20,Yes,Alabama Crimson Tide,Auburn Tigers,-87.545766,33.2144,14,Bryant-Denny Stadium,NCAA,01125
+11/28/20,Yes,Mississippi Rebels,Mississippi State Bulldogs,-89.539377,34.362144,14,Vaught-Hemingway,NCAA,28071
+11/28/20,Yes,East Carolina Pirates,Southern Methodist Mustangs,-77.366199,35.606347,14,Dowdy-Ficklen,NCAA,37147
+12/12/20,Yes,Vanderbilt Commodores,Tennessee Volunteers,-86.804875,36.14443,14,Vanderbilt Stadium,NCAA,47037
+11/28/20,Yes,Florida Gators,Kentucky Wildcats,-82.361195,29.638248,14,Ben Hill Griffin,NCAA,12001
+12/5/20,Yes,Missouri Tigers,Arkansas Razorbacks,-92.326429,38.941015,14,Memorial Stadium,NCAA,29019
+12/6/20,Yes,Charlotte 49ers,Western Kentucky Hilltoppers,-80.73579,35.306834,14,Richardson Stadium,NCAA,37119
+11/28/20,Yes,Clemson Tigers,Pittsburgh Panthers,-82.834463,34.677329,14,Memorial Stadium,NCAA,45077
+11/28/20,No,Syracuse Orangemen,North Carolina State Wolfpack,-76.135062,43.037587,14,Carrier Dome,NCAA,36067
+11/28/20,Yes,Georgia Tech Yellow Jackets,Duke Blue Devils,-84.396019,33.773732,14,Bobby Dodd Stadium,NCAA,13121
+11/28/20,Yes,Oklahoma State Cowboys,Texas Tech Red Raiders,-97.069743,36.123085,14,Boone Pickens Stadium,NCAA,40119
+11/27/20,Yes,Texas Longhorns,Iowa State Cyclones,-97.737277,30.28473,14,DKR Texas Memorial,NCAA,48453
+11/28/20,No,Kansas Jayhawks,Texas Christian Horned Frogs,-95.24587,38.957351,14,Kansas Memorial Stad,NCAA,20045
+11/28/20,Yes,Baylor Bears,Kansas State Wildcats,-97.119359,31.545956,14,McLane Stadium,NCAA,48309
+11/28/20,Yes,South Carolina Gamecocks,Georgia Bulldogs,-81.037739,34.006153,14,Williams-Brice Stad.,NCAA,45079
+12/12/20,Yes,Arkansas Razorbacks,Alabama Crimson Tide,-94.178214,36.06153,15,DWRRS,NCAA,05143
+12/19/20,Yes,Louisiana State Fighting Tigers,Mississippi Rebels,-91.196656,30.552111,15,Tiger Stadium,NCAA,22033
+12/19/20,Yes,Mississippi State Bulldogs,Missouri Tigers,-88.879658,33.425002,15,Davis Wade Stadium,NCAA,28105
+12/5/20,Yes,Virginia Polytechnic Hokies,Clemson Tigers,-80.434849,37.237477,15,Lane/Worsham Field,NCAA,51121
+12/5/20,Yes,Virginia Cavaliers,Boston College Eagles,38.041231,-78.51315,15,Smith/Harrison/Scott,NCAA,51003
+12/12/20,Yes,Florida State Seminoles,Duke Blue Devils,-84.290883,30.439741,15,Doak Campbell Stadium,NCAA,12073
+12/5/20,Yes,Notre Dame Fighting Irish,Syracuse Orangemen,-86.289848,41.616717,15,Notre Dame Stadium,NCAA,18141
+12/12/20,Yes,Miami Hurricanes,North Carolina Tar Heels,-80.27645,25.720406,15,Hard Rock Stadium,NCAA,12086
+12/5/20,Yes,Texas Tech Red Raiders,Kansas Jayhawks,-101.876917,33.580309,15,Jones AT&T Stadium,NCAA,48303
+12/5/20,Yes,Texas Christian Horned Frogs,Oklahoma State Cowboys,-97.361537,32.709568,15,Amon G. Carter,NCAA,48439
+12/5/20,Yes,Kansas State Wildcats,Texas Longhorns,-96.581077,39.188616,15,Snyder Stadium,NCAA,20161
+12/5/20,Yes,North Carolina State Wolfpack,Georgia Tech Yellow Jackets,-78.674517,35.785111,15,Carter-Finley,NCAA,37183
+12/5/20,Yes,Kentucky Wildcats,South Carolina Gamecocks,-84.510698,38.028081,15,Kroger Field,NCAA,21067
+12/12/20,Yes,Louisville Cardinals,Wake Forest Demon Deacons,-85.758843,38.215752,15,Cardinal Stadium,NCAA,21111
+12/5/20,Yes,Tennessee Volunteers,Florida Gators,-83.929696,35.955093,15,Neyland Stadium,NCAA,47093
+12/5/20,Yes,Auburn Tigers,Texas A&M Aggies,-85.492409,32.600201,15,Jordan Hare,NCAA,01081
+12/5/20,Yes,Iowa State Cyclones,West Virginia Mountaineers,-93.648353,42.026368,15,Jack Trice Stadium,NCAA,19169
+12/5/20,Yes,Oklahoma Sooners,Baylor Bears,-97.445692,35.208152,15,Memorial Stadium,NCAA,40027
+12/12/20,Yes,Army Black Knights,Navy Midshipmen,-73.956804,41.390882,16,Michie Stadium,NCAA,36071
+9/19/20,Yes,Notre Dame Fighting Irish,South Florida Bulls,-86.289848,41.616717,4,Notre Dame Stadium,NCAA,18141
+9/25/20,Yes,UTSA Roadrunners,Middle Tennessee Blue Raiders,-98.621386,29.582418,5,Alamodome,NCAA,48029
+9/26/20,No,Boston College Eagles,Texas State Bobcats,-71.171488,42.337688,5,Alumni Stadium,NCAA,25017
+10/2/20,Yes,Wake Forest Demon Deacons,Campbell Camels,-80.279004,36.135301,6,Truist Field,NCAA,37067
+9/26/20,No,Cincinnati Bearcats,Army Black Knights,-84.51428,39.131159,5,Nippert Stadium,NCAA,39061
+10/24/20,Yes,West Texas A&M Buffalos,Angelo State Rams,-101.9158,34.981996,9,Buffalo Stadium,NCAA,48381
+10/17/20,Yes,Stephen F. Austin Lumberjacks,Angelo State Rams,-94.58546,31.58562,7,Homer Bryce Stadium,NCAA,48347
+11/7/20,Yes,Abilene Christian Wildcats,Angelo State Rams,-99.70954,32.46915,11,Wildcat Stadium,NCAA,48441
+10/2/20,No,Brigham Young Cougars,Louisiana Tech Bulldogs,-111.649281,40.250851,6,LaVell Edwards,NCAA,49049
+10/3/20,Yes,Eastern Kentucky Colonels,Houston Baptist Huskies,-84.301356,37.740396,6,Roy Kidd Stadium,NCAA,21151
+10/10/20,No,Brigham Young Cougars,UTSA Roadrunners,-111.649281,40.250851,7,LaVell Edwards,NCAA,49049
+10/10/20,Yes,Mesa State Mavericks,Chadron State Eagles,-108.540281,39.076354,7,Stocker Stadium,NCAA,08077
+10/17/20,Yes,Black Hills Yellow Jackets,Mesa State Mavericks,-103.870009,44.495536,8,Lyle Hare Stadium,NCAA,46081
+10/17/20,Yes,Chadron State Eagles,South Dakota School of Mines Hardrockers,-103.002793,42.820672,8,Elliott Field,NCAA,31045
+10/23/20,Yes,Florida International Golden Panthers,Jacksonville State Gamecocks,-80.377591,25.757111,9,Riccardo Silva,NCAA,12086
+10/24/20,Yes,Brigham Young Cougars,Texas State Bobcats,-111.649281,40.250851,9,LaVell Edwards,NCAA,49049
+10/24/20,Yes,Ohio State Buckeyes,Nebraska Cornhuskers,-83.009001,39.998389,9,Ohio Stadium,NCAA,39049
+10/23/20,No,Wisconsin Badgers,Illinois Fighting Illini,-89.405356,43.073858,9,Camp Randall,NCAA,55025
+10/24/20,Yes,Indiana Hoosiers,Penn State Nittany Lions,-86.526904,39.166383,9,Memorial Stadium,NCAA,18105
+10/24/20,No,Michigan State Spartans,Rutgers Scarlet Knights,-84.473639,42.72476,9,Spartan Stadium,NCAA,26065
+10/24/20,Yes,Northwestern Wildcats,Maryland Terrapins,-87.673653,42.058377,9,Ryan Field,NCAA,17031
+10/24/20,Yes,Minnesota Golden Gophers,Michigan Wolverines,-93.235352,44.977886,9,TCF Bank Stadium,NCAA,27053
+10/24/20,Yes,Purdue Boilermakers,Iowa Hawkeyes,-86.914435,40.428206,9,Ross-Ade,NCAA,18157
+10/24/20,Yes,Mesa State Mavericks,South Dakota School of Mines Hardrockers,-108.540281,39.076354,7,Stocker Stadium,NCAA,08077
+10/24/20,Yes,Stephen F. Austin Lumberjacks,Abilene Christian Wildcats,-94.58546,31.58562,9,Globe Life Park,NCAA,48347
+10/31/20,Yes,Mercer Bears,Abilene Christian Wildcats,-83.651042,32.829731,10,Five Star Stadium,NCAA,13021
+10/24/20,Yes,Mesa State Mavericks,South Dakota School of Mines Hardrockers,-108.540281,39.076354,9,Stocker Stadium,NCAA,08077
+10/31/20,Yes,Penn State Nittany Lions,Ohio State Buckeyes,-77.861644,40.800731999999996,10,Beaver Stadium,NCAA,42027
+10/31/20,Yes,Iowa Hawkeyes,Northwestern Wildcats,-91.535698,41.660695,10,Kinnick,NCAA,19103
+10/31/20,Yes,Illinois Fighting Illini,Purdue Boilermakers,-88.230309,40.108864,10,Memorial,NCAA,17019
+10/31/20,No,Rutgers Scarlet Knights,Indiana Hoosiers,-74.45051,40.503796,10,SHI Stadium,NCAA,34023
+10/30/20,No,Maryland Terrapins,Minnesota Golden Gophers,-76.939704,38.988607,10,Capital One Field at Maryland Stadium,NCAA,24033
+10/31/20,Yes,Michigan Wolverines,Michigan State Spartans,-83.743132,42.276138,10,Michigan Stadium,NCAA,26161
+10/31/20,Yes,Pittsburg State Gorillas,Nebraska-Kearney Lopers,-94.704782,37.3913,10,Carnie Smith,NCAA,20037
+10/31/20,Yes,South Dakota School of Mines Hardrockers,Chadron State Eagles,-103.205753,44.075439,10,OHarra Stadium,NCAA,46103
+11/7/20,Yes,Ohio State Buckeyes,Rutgers Scarlet Knights,-83.009001,39.998389,11,Ohio Stadium,NCAA,39049
+11/7/20,Yes,Iowa Hawkeyes,Michigan State Spartans,-91.535698,41.660695,11,Kinnick Stadium,NCAA,19103
+11/7/20,Yes,Illinois Fighting Illini,Minnesota Golden Gophers,-88.230309,40.108864,11,Memorial,NCAA,17019
+11/7/20,No,Northwestern Wildcats,Nebraska Cornhuskers,-87.673653,42.058377,11,Ryan Field,NCAA,17031
+11/7/20,Yes,Penn State Nittany Lions,Maryland Terrapins,-77.861644,40.800731999999996,11,Beaver Stadium,NCAA,42027
+11/7/20,Yes,Indiana Hoosiers,Michigan Wolverines,-86.526904,39.166383,11,Memorial Stadium,NCAA,18105
+11/7/20,Yes,Missouri Western Griffons,Pittsburg State Gorillas,-94.785643,39.7575,11,Spratt Memorial,NCAA,29021
+11/14/20,Yes,Stephen F. Austin Lumberjacks,Pittsburg State Gorillas,-94.58546,31.58562,12,Homer Bryce Stadium,NCAA,48347
+11/13/20,Yes,Minnesota Golden Gophers,Iowa Hawkeyes,-93.235352,44.977886,12,TCF Bank Stadium,NCAA,27053
+11/14/20,Yes,Purdue Boilermakers,Northwestern Wildcats,-86.914435,40.428206,12,Ross-Ade,NCAA,18157
+11/14/20,No,Nebraska Cornhuskers,Penn State Nittany Lions,-96.010797,41.257746,12,Memorial Stadium,NCAA,31055
+11/14/20,Yes,Michigan State Spartans,Indiana Hoosiers,-84.473639,42.72476,12,Spartan Stadium,NCAA,26065
+11/14/20,Yes,Michigan Wolverines,Wisconsin Badgers,-83.743132,42.276138,12,Michigan Stadium,NCAA,26161
+11/14/20,No,Rutgers Scarlet Knights,Illinois Fighting Illini,-74.45051,40.503796,12,SHI Stadium,NCAA,34023
+11/21/20,Yes,Virginia Cavaliers,Abilene Christian Wildcats,38.041231,-78.51315,13,Smith/Harrison/Scott,NCAA,51003
+11/21/20,Yes,Ohio State Buckeyes,Indiana Hoosiers,-83.009001,39.998389,13,Ohio Stadium,NCAA,39049
+11/21/20,Yes,Northwestern Wildcats,Wisconsin Badgers,-87.673653,42.058377,13,Ryan Field,NCAA,17031
+11/21/20,No,Nebraska Cornhuskers,Illinois Fighting Illini,-96.010797,41.257746,13,Memorial Stadium,NCAA,31055
+11/21/20,Yes,Memphis Tigers,Stephen F. Austin Lumberjacks,-89.993508,35.115864,13,Liberty Bowl,NCAA,47157
+11/20/20,Yes,Minnesota Golden Gophers,Purdue Boilermakers,-93.235352,44.977886,13,TCF Bank Stadium,NCAA,27053
+11/21/20,No,Rutgers Scarlet Knights,Michigan Wolverines,-74.45051,40.503796,13,SHI Stadium,NCAA,34023
+11/21/20,Yes,Penn State Nittany Lions,Iowa Hawkeyes,-77.861644,40.800731999999996,13,Beaver Stadium,NCAA,42027
+12/19/20,No,Wisconsin Badgers,Minnesota Golden Gophers,-89.405356,43.073858,14,Camp Randall,NCAA,55025
+11/27/20,Yes,Iowa Hawkeyes,Nebraska Cornhuskers,-91.535698,41.660695,14,Kinnick Stadium,NCAA,19103
+11/28/20,Yes,Purdue Boilermakers,Rutgers Scarlet Knights,-86.914435,40.428206,14,Ross-Ade,NCAA,18157
+10/31/20,Yes,Central Arkansas Bears,Missouri Western Griffons,-92.45931,35.078196,10,Estes Stadium,NCAA,05045
+11/21/20,Yes,West Texas A&M Buffalos,Pittsburg State Gorillas,-101.9158,34.981996,14,Buffalo Stadium,NCAA,48381
+11/28/20,No,Michigan Wolverines,Penn State Nittany Lions,-83.743132,42.276138,14,Michigan Stadium,NCAA,26161
+11/28/20,Yes,Indiana Hoosiers,Maryland Terrapins,-86.526904,39.166383,14,Memorial Stadium,NCAA,18105
+11/28/20,No,Michigan State Spartans,Northwestern Wildcats,-84.473639,42.72476,14,Spartan Stadium,NCAA,26065
+12/5/20,No,Michigan State Spartans,Ohio State Buckeyes,-84.473639,42.72476,15,Spartan Stadium,NCAA,26065
+12/5/20,Yes,Illinois Fighting Illini,Iowa Hawkeyes,-88.230309,40.108864,15,Memorial Stadium,NCAA,17019
+12/5/20,Yes,Purdue Boilermakers,Nebraska Cornhuskers,-86.914435,40.428206,15,Ross-Ade,NCAA,18157
+12/5/20,No,Rutgers Scarlet Knights,Penn State Nittany Lions,-74.45051,40.503796,15,SHI Stadium,NCAA,34023
+12/12/20,Yes,Iowa Hawkeyes,Wisconsin Badgers,-91.535698,41.660695,16,Kinnick Stadium,NCAA,19103
+12/12/20,No,Northwestern Wildcats,Illinois Fighting Illini,-87.673653,42.058377,16,Ryan Field,NCAA,17031
+12/12/20,No,Nebraska Cornhuskers,Minnesota Golden Gophers,-96.010797,41.257746,16,Memorial Stadium,NCAA,31055
+12/12/20,No,Penn State Nittany Lions,Michigan State Spartans,-77.861644,40.800731999999996,16,Beaver Stadium,NCAA,42027
+12/12/20,No,Maryland Terrapins,Rutgers Scarlet Knights,-76.939704,38.988607,16,Maryland Stadium,NCAA,24033
+12/5/20,No,Wisconsin Badgers,Indiana Hoosiers,-89.405356,43.073858,15,Camp Randall,NCAA,55025
+11/14/20,Yes,New Mexico Lobos,Nevada Wolfpack,-106.620155,35.083868,12,Sam Boyd Stadium,NCAA,35001
+12/12/20,Yes,New Mexico Lobos,Fresno State Bulldogs,-106.620155,35.083868,16,University Stad.West,NCAA,35001
+11/7/20,Yes,Southern California Trojans,Arizona State Sun Devils,-118.283858,34.021058,11,LA Memorial Coliseum,NCAA,06037
+12/5/20,No,Arizona State Sun Devils,California-Los Angeles Bruins,-111.940011,33.421922,15,Sun Devil Stadium,NCAA,04013
+11/14/20,No,Washington State Cougars,Oregon Ducks,-117.158168,46.730448,12,Martin Stadium,NCAA,53075
+11/21/20,No,Oregon State Beavers,California-Berkeley Golden Bears,-123.27415,44.564524,13,Reser Stadium,NCAA,41003
+11/14/20,No,Arizona Wildcats,Southern California Trojans,-110.950769,32.232071,12,Arizona Stadium,NCAA,04019
+11/27/20,No,California-Berkeley Golden Bears,Stanford Cardinal,-122.260401,37.871519,14,Memorial Stadium,NCAA,06001
+12/5/20,No,Arizona Wildcats,Colorado Buffaloes,-110.950769,32.232071,15,Arizona Stadium,NCAA,04019
+10/24/20,No,Boise State Broncos,Utah State Aggies,-116.205789,43.604403,9,Albertsons Stadium,NCAA,16001
+10/31/20,No,San Jose State Spartans,New Mexico Lobos,-121.881214,37.335201,10,CEFCU Stadium,NCAA,06085
+11/7/20,Yes,Nevada-Las Vegas Rebels,Fresno State Bulldogs,-115.141153,36.106994,11,Allegiant Stadium,NCAA,32003
+12/3/20,Yes,Utah State Aggies,Air Force Academy Falcons,-111.81391,41.740748,15,Maverik Stadium,NCAA,49005
+12/11/20,No,San Jose State Spartans,Nevada Wolfpack,-121.881214,37.335201,16,Sam Boyd Stadium,NCAA,06085
+10/17/20,Yes,Georgia Southern Eagles,Massachusetts Minutemen,-81.779908,32.427341,8,Allen E. Paulson,NCAA,13031
+11/7/20,Yes,Oregon Ducks,Stanford Cardinal,-123.07398,44.044515,11,Autzen Stadium,NCAA,41039
+11/7/20,No,Oregon State Beavers,Washington State Cougars,-123.27415,44.564524,11,Reser Stadium,NCAA,41003
+11/14/20,Yes,Washington Huskies,Oregon State Beavers,-122.313115,47.656213,12,Husky Stadium,NCAA,53033
+11/14/20,Yes,Stanford Cardinal,Colorado Buffaloes,-122.182212,37.431746,12,Stanford Stadium,NCAA,06081
+11/21/20,No,Oregon Ducks,California-Los Angeles Bruins,-123.07398,44.044515,13,Autzen Stadium,NCAA,41039
+11/21/20,No,Utah Utes,Southern California Trojans,-111.846044,40.762484,13,Rice-Eccles Stadium,NCAA,49035
+11/21/20,Yes,Washington Huskies,Arizona Wildcats,-122.313115,47.656213,13,Husky Stadium,NCAA,53033
+11/27/20,No,Oregon State Beavers,Oregon Ducks,-123.27415,44.564524,14,Reser Stadium,NCAA,41003
+11/28/20,No,California-Los Angeles Bruins,Arizona Wildcats,-118.443901,34.068892,14,Rose Bowl,NCAA,06037
+12/6/20,Yes,Southern California Trojans,Washington State Cougars,-118.283858,34.021058,15,LA Memorial Coliseum,NCAA,06037
+12/5/20,No,Utah Utes,Oregon State Beavers,-111.846044,40.762484,15,Rice-Eccles Stadium,NCAA,49035
+12/5/20,No,California-Berkeley Golden Bears,Oregon Ducks,-122.260401,37.871519,15,Memorial Stadium,NCAA,06001
+12/5/20,Yes,Washington Huskies,Stanford Cardinal,-122.313115,47.656213,15,Husky Stadium,NCAA,53033
+12/12/20,No,Colorado Buffaloes,Utah Utes,-105.267061,40.004415,16,Folsom Field,NCAA,08013
+12/11/20,No,Arizona Wildcats,Arizona State Sun Devils,-110.950769,32.232071,16,Arizona Stadium,NCAA,04019
+12/12/20,No,Oregon State Beavers,Stanford Cardinal,-123.27415,44.564524,16,Reser Stadium,NCAA,41003
+12/12/20,No,California-Los Angeles Bruins,Southern California Trojans,-118.443901,34.068892,16,Rose Bowl,NCAA,06037
+11/7/20,Yes,Colorado Buffaloes,California-Los Angeles Bruins,-105.267061,40.004415,11,Folsom Field,NCAA,08013
+10/24/20,No,San Jose State Spartans,Air Force Academy Falcons,-121.881214,37.335201,9,CEFCU Stadium,NCAA,06085
+10/24/20,Yes,Nevada Wolfpack,Wyoming Cowboys,-119.82526,39.552523,9,Mackay Stadium,NCAA,32031
+10/31/20,Yes,Air Force Academy Falcons,Boise State Broncos,-104.889895,39.011005,10,Falcon Stadium,NCAA,08041
+11/4/20,Yes,Northern Illinois Huskies,Buffalo Bulls,-88.766065,41.933791,10,Huskie Stadium,NCAA,17037
+11/4/20,Yes,Akron Zips,Western Michigan Broncos,-81.510328,41.077768,10,InfoCision Stadium,NCAA,39153
+11/4/20,No,Kent State Golden Flashes,Eastern Michigan Eagles,-81.342253,41.146856,10,Dix Stadium,NCAA,39133
+11/4/20,No,Miami Redhawks,Ball State Cardinals,-84.731821,39.509642,10,Yager Stadium,NCAA,39017
+11/4/20,Yes,Central Michigan Chippewas,Ohio Bobcats,-84.776729,43.610947,10,Kelly/Shorts,NCAA,26073
+11/4/20,No,Toledo Rockets,Bowling Green Falcons,-83.615225,41.65795,10,Glass Bowl,NCAA,39095
+11/10/20,Yes,Bowling Green Falcons,Kent State Golden Flashes,-83.637531,41.377036,11,Doyt Perry Stadium,NCAA,39173
+11/10/20,Yes,Ohio Bobcats,Akron Zips,-82.094162,39.334351,11,Peden Stadium,NCAA,39009
+11/10/20,No,Buffalo Bulls,Miami Redhawks,-78.78919,43.000416,11,UB Stadium,NCAA,36029
+11/11/20,Yes,Northern Illinois Huskies,Central Michigan Chippewas,-88.766065,41.933791,11,Huskie Stadium,NCAA,17037
+11/11/20,Yes,Ball State Cardinals,Eastern Michigan Eagles,-85.408863,40.198942,11,Scheumann Stadium,NCAA,18035
+11/11/20,Yes,Western Michigan Broncos,Toledo Rockets,-85.61512,42.282589,11,Waldo Stadium,NCAA,26077
+11/17/20,Yes,Bowling Green Falcons,Buffalo Bulls,-83.637531,41.377036,12,Doyt Perry Stadium,NCAA,39173
+11/17/20,No,Kent State Golden Flashes,Akron Zips,-81.342253,41.146856,12,Dix Stadium,NCAA,39133
+11/18/20,Yes,Eastern Michigan Eagles,Toledo Rockets,-83.627076,42.247936,12,Rynearson,NCAA,26161
+11/18/20,Yes,Ball State Cardinals,Northern Illinois Huskies,-85.408863,40.198942,12,Scheumann Stadium,NCAA,18035
+11/18/20,No,Central Michigan Chippewas,Western Michigan Broncos,-84.776729,43.610947,12,Kelly/Shorts,NCAA,26073
+11/27/20,Yes,Eastern Michigan Eagles,Central Michigan Chippewas,-83.627076,42.247936,14,Rynearson,NCAA,26161
+11/28/20,Yes,Ohio Bobcats,Bowling Green Falcons,-82.094162,39.334351,14,Peden Stadium,NCAA,39009
+11/28/20,No,Akron Zips,Miami Redhawks,-81.510328,41.077768,14,InfoCision Stadium,NCAA,39153
+11/28/20,No,Western Michigan Broncos,Northern Illinois Huskies,-85.61512,42.282589,14,Waldo Stadium,NCAA,26077
+11/28/20,No,Toledo Rockets,Ball State Cardinals,-83.615225,41.65795,14,Glass Bowl,NCAA,39095
+11/28/20,No,Buffalo Bulls,Kent State Golden Flashes,-78.78919,43.000416,14,UB Stadium,NCAA,36029
+12/5/20,No,Northern Illinois Huskies,Toledo Rockets,-88.766065,41.933791,15,Huskie Stadium,NCAA,17037
+12/5/20,No,Western Michigan Broncos,Eastern Michigan Eagles,-85.61512,42.282589,15,Waldo Stadium,NCAA,26077
+12/5/20,No,Akron Zips,Bowling Green Falcons,-81.510328,41.077768,15,InfoCision Stadium,NCAA,39153
+12/5/20,No,Central Michigan Chippewas,Ball State Cardinals,-84.776729,43.610947,15,Kelly/Shorts,NCAA,26073
+12/12/20,No,Toledo Rockets,Central Michigan Chippewas,-83.615225,41.65795,16,Glass Bowl,NCAA,39095
+12/12/20,No,Buffalo Bulls,Akron Zips,-78.78919,43.000416,16,UB Stadium,NCAA,36029
+12/12/20,Yes,Ball State Cardinals,Western Michigan Broncos,-85.408863,40.198942,16,Scheumann Stadium,NCAA,18035
+12/12/20,Yes,Eastern Michigan Eagles,Northern Illinois Huskies,-83.627076,42.247936,16,Rynearson,NCAA,26161
+11/6/20,Yes,Boise State Broncos,Brigham Young Cougars,-116.205789,43.604403,11,Albertsons Stadium,NCAA,16001
+10/24/20,No,Fresno State Bulldogs,Hawaii Warriors,-119.748258,36.814477,9,Bulldog Stadium,NCAA,06019
+10/24/20,No,San Diego State Aztecs,Nevada-Las Vegas Rebels,-117.071228,32.77525,9,Dignity Health SP,NCAA,06073
+10/29/20,No,Fresno State Bulldogs,Colorado State Rams,-119.748258,36.814477,10,Bulldog Stadium,NCAA,06019
+10/30/20,Yes,Wyoming Cowboys,Hawaii Warriors,-105.57204,41.311943,10,War Memorial Stadium,NCAA,56001
+10/31/20,Yes,Utah State Aggies,San Diego State Aztecs,-111.81391,41.740748,10,Maverik Stadium,NCAA,49005
+10/31/20,Yes,Nevada-Las Vegas Rebels,Nevada Wolfpack,-115.141153,36.106994,10,Allegiant Stadium,NCAA,32003
+11/5/20,Yes,Nevada Wolfpack,Utah State Aggies,-119.82526,39.552523,11,Mackay Stadium,NCAA,32031
+11/5/20,No,Colorado State Rams,Wyoming Cowboys,-105.08083,40.574759,11,Canvas Stadium,NCAA,08069
+11/6/20,No,San Diego State Aztecs,San Jose State Spartans,-117.071228,32.77525,11,Dignity Health SP,NCAA,06073
+11/12/20,Yes,Boise State Broncos,Colorado State Rams,-116.205789,43.604403,12,Albertsons Stadium,NCAA,16001
+11/14/20,No,San Jose State Spartans,Nevada-Las Vegas Rebels,-121.881214,37.335201,12,CEFCU Stadium,NCAA,06085
+11/14/20,No,Utah State Aggies,Fresno State Bulldogs,-111.81391,41.740748,12,Maverik Stadium,NCAA,49005
+11/14/20,No,San Diego State Aztecs,Hawaii Warriors,-117.071228,32.77525,12,Dignity Health SP,NCAA,06073
+11/20/20,Yes,Air Force Academy Falcons,New Mexico Lobos,-104.889895,39.011005,13,Falcon Stadium,NCAA,08041
+11/21/20,Yes,Nevada Wolfpack,San Diego State Aztecs,-119.82526,39.552523,13,Mackay Stadium,NCAA,32031
+11/26/20,Yes,Utah State Aggies,New Mexico Lobos,-111.81391,41.740748,14,Maverik Stadium,NCAA,49005
+11/27/20,No,Nevada-Las Vegas Rebels,Wyoming Cowboys,-115.141153,36.106994,14,Allegiant Stadium,NCAA,32003
+12/5/20,Yes,Nevada Wolfpack,Fresno State Bulldogs,-119.82526,39.552523,15,Mackay Stadium,NCAA,32031
+12/5/20,Yes,New Mexico Lobos,Wyoming Cowboys,-106.620155,35.083868,15,San Boyd Stadium,NCAA,35001
+12/5/20,No,San Diego State Aztecs,Colorado State Rams,-117.071228,32.77525,15,Dignity Health SP,NCAA,06073
+12/12/20,Yes,Brigham Young Cougars,San Diego State Aztecs,-111.649281,40.250851,16,LaVell Edwards,NCAA,49049
+12/12/20,Yes,Wyoming Cowboys,Boise State Broncos,-105.57204,41.311943,16,War Memorial Stadium,NCAA,56001
+11/15/20,No,California-Los Angeles Bruins,California-Berkeley Golden Bears,-118.443901,34.068892,12,Rose Bowl,NCAA,06037
+10/30/20,No,Southern Illinois Salukis,Southeast Missouri Redhawks,-89.217618,37.71921,10,Saluki Stadium,NCAA,17077
+10/31/20,Yes,Stephen F. Austin Lumberjacks,Western State Mountaineers,-94.58546,31.58562,10,Homer Bryce Stadium,NCAA,48347
+11/27/20,Yes,Liberty Flames,Massachusetts Minutemen,-79.179688,37.350345,14,Williams Stadium,NCAA,51031
+12/5/20,Yes,North Carolina Tar Heels,Western Carolina Catamounts,-79.050969,35.912165,15,Kenan Stadium,NCAA,37135
+11/28/20,Yes,Washington Huskies,Utah Utes,-122.313115,47.656213,14,Husky Stadium,NCAA,53033
+11/7/20,Yes,Marshall Thundering Herd,Massachusetts Minutemen,-82.43065,38.42261,11,Joan C. Edwards,NCAA,54011
+11/20/20,Yes,Florida Atlantic Owls,Massachusetts Minutemen,-80.102293,26.372536,13,FAU Stadium,NCAA,12099
+11/28/20,No,Colorado Buffaloes,San Diego State Aztecs,-105.267061,40.004415,14,Folsom Field,NCAA,08013
+12/5/20,No,Duke Blue Devils,Miami Hurricanes,-78.94226,36.00159,15,Wallace Wade Stadium,NCAA,37063
+12/5/20,Yes,Coastal Carolina Chanticleers,Brigham Young Cougars,-79.012599,33.794734,15,Brooks Stadium,NCAA,45051
+12/18/20,No,Buffalo Bulls,Ball State Cardinals,-78.78919,43.000416,17,Ford Field,NCAA,36029
+12/18/20,Yes,Marshall Thundering Herd,Alabama-Birmingham Blazers,-82.43065,38.42261,16,Joan C. Edwards,NCAA,54011
+12/18/20,No,Rutgers Scarlet Knights,Nebraska Cornhuskers,-74.45051,40.503796,17,SHI Stadium,NCAA,34023
+12/18/20,Yes,Southern California Trojans,Oregon Ducks,-118.283858,34.021058,16,LA Memorial Coliseum,NCAA,06037
+12/19/20,Yes,Ohio State Buckeyes,Northwestern Wildcats,-83.009001,39.998389,16,Lucas Oil Stadium,NCAA,39049
+12/19/20,No,Utah Utes,Washington State Cougars,-111.846044,40.762484,17,Rice-Eccles Stadium,NCAA,49035
+12/19/20,No,San Jose State Spartans,Boise State Broncos,-121.881214,37.335201,17,Sam Boyd Stadium,NCAA,06085
+12/19/20,No,Penn State Nittany Lions,Illinois Fighting Illini,-77.861644,40.800731999999996,16,Beaver Stadium,NCAA,42027
+12/19/20,No,California-Los Angeles Bruins,Stanford Cardinal,-118.443901,34.068892,17,Rose Bowl,NCAA,06037
+12/19/20,Yes,Florida Gators,Alabama Crimson Tide,-82.361195,29.638248,16,Mercedes-Benz Stdm,NCAA,12001
+12/19/20,Yes,Cincinnati Bearcats,Tulsa Golden Hurricanes,-84.51428,39.131159,16,Nippert Stadium,NCAA,39061
+12/19/20,No,Oregon State Beavers,Arizona State Sun Devils,-123.27415,44.564524,17,Reser Stadium,NCAA,41003
+12/12/20,Yes,Texas Christian Horned Frogs,Louisiana Tech Bulldogs,-97.361537,32.709568,16,Amon G. Carter,NCAA,48439
+12/21/20,Yes,North Texas Mean Green,Appalachian State Mountaineers,-97.151211,33.210958,17,Brooks Stadium,NCAA,48121
+12/22/20,No,Nevada Wolfpack,Tulane Green Wave,-119.82526,39.552523,17,Albertsons Stadium,NCAA,32031
+12/22/20,Yes,Brigham Young Cougars,Central Florida Knights,-111.649281,40.250851,17,FAU Stadium,NCAA,49049
+12/23/20,Yes,Florida Atlantic Owls,Memphis Tigers,-80.102293,26.372536,18,Cramton Bowl,NCAA,12099
+9/10/20,Yes,Kansas City Chiefs,Houston Texans,-94.483889,39.048889,1,Arrowhead Stadium,NFL,29095
+9/13/20,No,Atlanta Falcons,Seattle Seahawks,-84.4,33.755556,1,Mercedes-Benz Stadium,NFL,13121
+9/13/20,No,Baltimore Ravens,Cleveland Browns,-76.622778,39.278056,1,M&T Bank Stadium,NFL,24510
+9/13/20,No,Buffalo Bills,New York Jets,-78.787,42.774,1,Bills Stadium,NFL,36029
+9/13/20,No,Carolina Panthers,Las Vegas Raiders,-80.852778,35.225833,1,Bank of America Stadium,NFL,37119
+9/13/20,No,Detroit Lions,Chicago Bears,-83.045556,42.34,1,Ford Field,NFL,26163
+9/13/20,Yes,Jacksonville Jaguars,Indianapolis Colts,-81.6375,30.323889,1,TIAA Bank Field,NFL,12031
+9/13/20,No,Minnesota Vikings,Green Bay Packers,-93.258056,44.973889,1,U.S. Bank Stadium,NFL,27053
+9/13/20,No,New England Patriots,Miami Dolphins,-71.264,42.091,1,Gillette Stadium,NFL,25021
+9/13/20,No,Washington Football Team,Philadelphia Eagles,-76.864444,38.907778,1,FedExField,NFL,24033
+9/13/20,No,Cincinnati Bengals,Los Angeles Chargers,-84.516,39.095,1,Paul Brown Stadium,NFL,21117
+9/13/20,No,New Orleans Saints,Tampa Bay Buccaneers,-90.811111,29.950833,1,Mercedes-Benz Superdome,NFL,22093
+9/13/20,No,San Francisco 49ers,Arizona Cardinals,-121.97,37.403,1,Levis Stadium,NFL,06085
+9/13/20,No,Los Angeles Rams,Dallas Cowboys,-118.3392,33.95345,1,SoFi Stadium,NFL,06037
+9/14/20,No,New York Giants,Pittsburgh Steelers,-74.074361,40.813528,1,MetLife Stadium,NFL,34003
+9/14/20,No,Denver Broncos,Tennessee Titans,-105.02,39.743889,1,Empower Field at Mile High,NFL,08031
+9/17/20,Yes,Cleveland Browns,Cincinnati Bengals,-81.699444,41.506111,2,FirstEnergy Stadium,NFL,39035
+9/20/20,No,Chicago Bears,New York Giants,-87.6167,41.8623,2,Soldier Field,NFL,17031
+9/20/20,Yes,Dallas Cowboys,Atlanta Falcons,-97.092778,32.747778,2,AT&T Stadium,NFL,48439
+9/20/20,No,Green Bay Packers,Detroit Lions,-88.062222,44.501389,2,Lambeau Field,NFL,55009
+9/20/20,Yes,Indianapolis Colts,Minnesota Vikings,-86.162806,39.760056,2,Lucas Oil Stadium,NFL,18097
+9/20/20,Yes,Miami Dolphins,Buffalo Bills,-80.238889,25.958056,2,Hard Rock Stadium,NFL,12086
+9/20/20,No,New York Jets,San Francisco 49ers,-74.074361,40.813528,2,MetLife Stadium,NFL,34003
+9/20/20,No,Philadelphia Eagles,Los Angeles Rams,-75.1675,39.900833,2,Lincoln Financial Field,NFL,42101
+9/20/20,No,Pittsburgh Steelers,Denver Broncos,-80.015833,40.446667,2,Heinz Field,NFL,42003
+9/20/20,No,Tampa Bay Buccaneers,Carolina Panthers,-82.503333,27.975833,2,Raymond James Stadium,NFL,12057
+9/20/20,No,Tennessee Titans,Jacksonville Jaguars,-86.771389,36.166389,2,Nissan Stadium,NFL,47037
+9/20/20,No,Arizona Cardinals,Washington Football Team,-112.263,33.528,2,State Farm Stadium,NFL,04013
+9/20/20,No,Houston Texans,Baltimore Ravens,-95.410833,29.684722,2,NRG Stadium,NFL,48201
+9/20/20,No,Los Angeles Chargers,Kansas City Chiefs,-118.3392,33.95345,2,SoFi Stadium,NFL,06037
+9/20/20,No,Seattle Seahawks,New England Patriots,-122.3316,47.5952,2,CenturyLink Field,NFL,53033
+9/21/20,No,Las Vegas Raiders,New Orleans Saints,-115.183722,36.09075,2,Allegiant Stadium,NFL,32003
+9/24/20,Yes,Jacksonville Jaguars,Miami Dolphins,-81.6375,30.323889,3,TIAA Bank Field,NFL,12031
+9/27/20,No,Atlanta Falcons,Chicago Bears,-84.4,33.755556,3,Mercedes-Benz Stadium,NFL,13121
+9/27/20,No,Buffalo Bills,Los Angeles Rams,-78.787,42.774,3,Bills Stadium,NFL,36029
+9/27/20,Yes,Cleveland Browns,Washington Football Team,-81.699444,41.506111,3,FirstEnergy Stadium,NFL,39035
+9/27/20,No,Minnesota Vikings,Tennessee Titans,-93.258056,44.973889,3,U.S. Bank Stadium,NFL,27053
+9/27/20,No,New England Patriots,Las Vegas Raiders,-71.264,42.091,3,Gillette Stadium,NFL,25021
+9/27/20,No,New York Giants,San Francisco 49ers,-74.074361,40.813528,3,MetLife Stadium,NFL,34003
+9/27/20,No,Philadelphia Eagles,Cincinnati Bengals,-75.1675,39.900833,3,Lincoln Financial Field,NFL,42101
+9/27/20,No,Pittsburgh Steelers,Houston Texans,-80.015833,40.446667,3,Heinz Field,NFL,42003
+9/27/20,Yes,Indianapolis Colts,New York Jets,-86.162806,39.760056,3,Lucas Oil Stadium,NFL,18097
+9/27/20,No,Los Angeles Chargers,Carolina Panthers,-118.3392,33.95345,3,SoFi Stadium,NFL,06037
+9/27/20,No,Arizona Cardinals,Detroit Lions,-112.263,33.528,3,State Farm Stadium,NFL,04013
+9/27/20,Yes,Denver Broncos,Tampa Bay Buccaneers,-105.02,39.743889,3,Empower Field at Mile High,NFL,08031
+9/27/20,No,Seattle Seahawks,Dallas Cowboys,-122.3316,47.5952,3,CenturyLink Field,NFL,53033
+9/27/20,Yes,New Orleans Saints,Green Bay Packers,-90.811111,29.950833,3,Mercedes-Benz Superdome,NFL,22093
+9/28/20,No,Baltimore Ravens,Kansas City Chiefs,-76.622778,39.278056,3,M&T Bank Stadium,NFL,24510
+10/1/20,No,New York Jets,Denver Broncos,-74.074361,40.813528,4,MetLife Stadium,NFL,34003
+10/4/20,Yes,Carolina Panthers,Arizona Cardinals,-80.852778,35.225833,4,Bank of America Stadium,NFL,37119
+10/4/20,No,Chicago Bears,Indianapolis Colts,-87.6167,41.8623,4,Soldier Field,NFL,17031
+10/4/20,Yes,Cincinnati Bengals,Jacksonville Jaguars,-84.516,39.095,4,Paul Brown Stadium,NFL,21117
+10/4/20,Yes,Dallas Cowboys,Cleveland Browns,-97.092778,32.747778,4,AT&T Stadium,NFL,48439
+10/4/20,No,Detroit Lions,New Orleans Saints,-83.045556,42.34,4,Ford Field,NFL,26163
+10/4/20,Yes,Houston Texans,Minnesota Vikings,-95.410833,29.684722,4,NRG Stadium,NFL,48201
+10/4/20,Yes,Miami Dolphins,Seattle Seahawks,-80.238889,25.958056,4,Hard Rock Stadium,NFL,12086
+10/4/20,Yes,Tampa Bay Buccaneers,Los Angeles Chargers,-82.503333,27.975833,4,Raymond James Stadium,NFL,12057
+10/25/20,Yes,Tennessee Titans,Pittsburgh Steelers,-86.771389,36.166389,7,Nissan Stadium,NFL,47037
+10/4/20,No,Washington Football Team,Baltimore Ravens,-76.864444,38.907778,4,FedExField,NFL,24033
+10/4/20,No,Los Angeles Rams,New York Giants,-118.3392,33.95345,4,SoFi Stadium,NFL,06037
+10/5/20,Yes,Kansas City Chiefs,New England Patriots,-94.483889,39.048889,4,Arrowhead Stadium,NFL,29095
+10/4/20,No,Las Vegas Raiders,Buffalo Bills,-115.183722,36.09075,4,Allegiant Stadium,NFL,32003
+10/4/20,No,San Francisco 49ers,Philadelphia Eagles,-121.97,37.403,4,Levis Stadium,NFL,06085
+10/5/20,No,Green Bay Packers,Atlanta Falcons,-88.062222,44.501389,4,Lambeau Field,NFL,55009
+10/8/20,No,Chicago Bears,Tampa Bay Buccaneers,-87.6167,41.8623,5,Soldier Field,NFL,17031
+10/11/20,Yes,Atlanta Falcons,Carolina Panthers,-84.4,33.755556,5,Mercedes-Benz Stadium,NFL,13121
+10/11/20,No,Baltimore Ravens,Cincinnati Bengals,-76.622778,39.278056,5,M&T Bank Stadium,NFL,24510
+10/11/20,Yes,Houston Texans,Jacksonville Jaguars,-95.410833,29.684722,5,NRG Stadium,NFL,48201
+10/11/20,Yes,Kansas City Chiefs,Las Vegas Raiders,-94.483889,39.048889,5,Arrowhead Stadium,NFL,29095
+10/18/20,No,New England Patriots,Denver Broncos,-71.264,42.091,6,Gillette Stadium,NFL,25021
+10/11/20,No,New York Jets,Arizona Cardinals,-74.074361,40.813528,5,MetLife Stadium,NFL,34003
+10/11/20,Yes,Pittsburgh Steelers,Philadelphia Eagles,-80.015833,40.446667,5,Heinz Field,NFL,42003
+10/13/20,Yes,Tennessee Titans,Buffalo Bills,-86.771389,36.166389,5,Nissan Stadium,NFL,47037
+10/11/20,No,Washington Football Team,Los Angeles Rams,-76.864444,38.907778,5,FedExField,NFL,24033
+10/11/20,No,San Francisco 49ers,Miami Dolphins,-121.97,37.403,5,Levis Stadium,NFL,06085
+10/11/20,Yes,Cleveland Browns,Indianapolis Colts,-81.699444,41.506111,5,FirstEnergy Stadium,NFL,39035
+10/11/20,Yes,Dallas Cowboys,New York Giants,-97.092778,32.747778,5,AT&T Stadium,NFL,48439
+10/11/20,No,Seattle Seahawks,Minnesota Vikings,-122.3316,47.5952,5,CenturyLink Field,NFL,53033
+10/12/20,Yes,New Orleans Saints,Los Angeles Chargers,-90.811111,29.950833,5,Mercedes-Benz Superdome,NFL,22093
+10/19/20,No,Buffalo Bills,Kansas City Chiefs,-78.787,42.774,6,Bills Stadium,NFL,36029
+10/18/20,Yes,Carolina Panthers,Chicago Bears,-80.852778,35.225833,6,Bank of America Stadium,NFL,37119
+10/18/20,Yes,Indianapolis Colts,Cincinnati Bengals,-86.162806,39.760056,6,Lucas Oil Stadium,NFL,18097
+10/18/20,Yes,Jacksonville Jaguars,Detroit Lions,-81.6375,30.323889,6,TIAA Bank Field,NFL,12031
+10/18/20,No,Minnesota Vikings,Atlanta Falcons,-93.258056,44.973889,6,U.S. Bank Stadium,NFL,27053
+10/18/20,No,New York Giants,Washington Football Team,-74.074361,40.813528,6,MetLife Stadium,NFL,34003
+10/18/20,No,Philadelphia Eagles,Baltimore Ravens,-75.1675,39.900833,6,Lincoln Financial Field,NFL,42101
+10/18/20,Yes,Pittsburgh Steelers,Cleveland Browns,-80.015833,40.446667,6,Heinz Field,NFL,42003
+10/18/20,Yes,Tennessee Titans,Houston Texans,-86.771389,36.166389,6,Nissan Stadium,NFL,47037
+11/22/20,Yes,Denver Broncos,Miami Dolphins,-105.02,39.743889,11,Empower Field at Mile High,NFL,08031
+11/22/20,No,Los Angeles Chargers,New York Jets,-118.3392,33.95345,11,SoFi Stadium,NFL,06037
+10/18/20,Yes,Tampa Bay Buccaneers,Green Bay Packers,-82.503333,27.975833,6,Raymond James Stadium,NFL,12057
+10/18/20,No,San Francisco 49ers,Los Angeles Rams,-121.97,37.403,6,Levis Stadium,NFL,06085
+10/19/20,Yes,Dallas Cowboys,Arizona Cardinals,-97.092778,32.747778,6,AT&T Stadium,NFL,48439
+10/22/20,No,Philadelphia Eagles,New York Giants,-75.1675,39.900833,7,Lincoln Financial Field,NFL,42101
+10/25/20,Yes,Atlanta Falcons,Detroit Lions,-84.4,33.755556,7,Mercedes-Benz Stadium,NFL,13121
+11/1/20,Yes,Baltimore Ravens,Pittsburgh Steelers,-76.622778,39.278056,8,M&T Bank Stadium,NFL,24510
+10/25/20,Yes,Cincinnati Bengals,Cleveland Browns,-84.516,39.095,7,Paul Brown Stadium,NFL,21117
+10/25/20,Yes,Houston Texans,Green Bay Packers,-95.410833,29.684722,7,NRG Stadium,NFL,48201
+11/15/20,Yes,Miami Dolphins,Los Angeles Chargers,-80.238889,25.958056,10,Hard Rock Stadium,NFL,12086
+10/25/20,Yes,New Orleans Saints,Carolina Panthers,-90.811111,29.950833,7,Mercedes-Benz Superdome,NFL,22093
+10/25/20,No,New York Jets,Buffalo Bills,-74.074361,40.813528,7,MetLife Stadium,NFL,34003
+10/25/20,No,Washington Football Team,Dallas Cowboys,-76.864444,38.907778,7,FedExField,NFL,24033
+10/25/20,Yes,Arizona Cardinals,Seattle Seahawks,-112.263,33.528,7,State Farm Stadium,NFL,04013
+10/25/20,Yes,Denver Broncos,Kansas City Chiefs,-105.02,39.743889,7,Empower Field at Mile High,NFL,08031
+10/25/20,No,New England Patriots,San Francisco 49ers,-71.264,42.091,7,Gillette Stadium,NFL,25021
+10/25/20,No,Las Vegas Raiders,Tampa Bay Buccaneers,-115.183722,36.09075,7,Allegiant Stadium,NFL,32003
+10/26/20,No,Los Angeles Rams,Chicago Bears,-118.3392,33.95345,7,SoFi Stadium,NFL,06037
+10/29/20,Yes,Carolina Panthers,Atlanta Falcons,-80.852778,35.225833,8,Bank of America Stadium,NFL,37119
+11/1/20,No,Buffalo Bills,New England Patriots,-78.787,42.774,8,Bills Stadium,NFL,36029
+11/1/20,Yes,Cincinnati Bengals,Tennessee Titans,-84.516,39.095,8,Paul Brown Stadium,NFL,21117
+11/1/20,Yes,Cleveland Browns,Las Vegas Raiders,-81.699444,41.506111,8,FirstEnergy Stadium,NFL,39035
+11/1/20,No,Detroit Lions,Indianapolis Colts,-83.045556,42.34,8,Ford Field,NFL,26163
+11/1/20,No,Green Bay Packers,Minnesota Vikings,-88.062222,44.501389,8,Lambeau Field,NFL,55009
+11/1/20,Yes,Kansas City Chiefs,New York Jets,-94.483889,39.048889,8,Arrowhead Stadium,NFL,29095
+11/1/20,Yes,Miami Dolphins,Los Angeles Rams,-80.238889,25.958056,8,Hard Rock Stadium,NFL,12086
+10/25/20,No,Los Angeles Chargers,Jacksonville Jaguars,-118.3392,33.95345,7,SoFi Stadium,NFL,06037
+11/1/20,No,Chicago Bears,New Orleans Saints,-87.6167,41.8623,8,Soldier Field,NFL,17031
+11/1/20,No,Seattle Seahawks,San Francisco 49ers,-122.3316,47.5952,8,CenturyLink Field,NFL,53033
+11/1/20,No,Philadelphia Eagles,Dallas Cowboys,-75.1675,39.900833,8,Lincoln Financial Field,NFL,42101
+11/2/20,No,New York Giants,Tampa Bay Buccaneers,-74.074361,40.813528,8,MetLife Stadium,NFL,34003
+11/5/20,No,San Francisco 49ers,Green Bay Packers,-121.97,37.403,9,Levis Stadium,NFL,06085
+11/8/20,Yes,Atlanta Falcons,Denver Broncos,-84.4,33.755556,9,Mercedes-Benz Stadium,NFL,13121
+11/8/20,No,Buffalo Bills,Seattle Seahawks,-78.787,42.774,9,Bills Stadium,NFL,36029
+11/8/20,Yes,Indianapolis Colts,Baltimore Ravens,-86.162806,39.760056,9,Lucas Oil Stadium,NFL,18097
+11/8/20,Yes,Jacksonville Jaguars,Houston Texans,-81.6375,30.323889,9,TIAA Bank Field,NFL,12031
+11/8/20,Yes,Kansas City Chiefs,Carolina Panthers,-94.483889,39.048889,9,Arrowhead Stadium,NFL,29095
+11/8/20,No,Minnesota Vikings,Detroit Lions,-93.258056,44.973889,9,U.S. Bank Stadium,NFL,27053
+11/8/20,Yes,Tennessee Titans,Chicago Bears,-86.771389,36.166389,9,Nissan Stadium,NFL,47037
+11/8/20,Yes,Washington Football Team,New York Giants,-76.864444,38.907778,9,FedExField,NFL,24033
+11/8/20,No,Los Angeles Chargers,Las Vegas Raiders,-118.3392,33.95345,9,SoFi Stadium,NFL,06037
+11/8/20,Yes,Arizona Cardinals,Miami Dolphins,-112.263,33.528,9,State Farm Stadium,NFL,04013
+11/8/20,Yes,Dallas Cowboys,Pittsburgh Steelers,-97.092778,32.747778,9,AT&T Stadium,NFL,48439
+11/8/20,Yes,Tampa Bay Buccaneers,New Orleans Saints,-82.503333,27.975833,9,Raymond James Stadium,NFL,12057
+11/9/20,No,New York Jets,New England Patriots,-74.074361,40.813528,9,MetLife Stadium,NFL,34003
+11/12/20,Yes,Tennessee Titans,Indianapolis Colts,-86.771389,36.166389,10,Nissan Stadium,NFL,47037
+11/15/20,Yes,Carolina Panthers,Tampa Bay Buccaneers,-80.852778,35.225833,10,Bank of America Stadium,NFL,37119
+11/15/20,Yes,Cleveland Browns,Houston Texans,-81.699444,41.506111,10,FirstEnergy Stadium,NFL,39035
+11/15/20,No,Detroit Lions,Washington Football Team,-83.045556,42.34,10,Ford Field,NFL,26163
+11/15/20,No,Green Bay Packers,Jacksonville Jaguars,-88.062222,44.501389,10,Lambeau Field,NFL,55009
+11/15/20,No,New York Giants,Philadelphia Eagles,-74.074361,40.813528,10,MetLife Stadium,NFL,34003
+11/15/20,Yes,Pittsburgh Steelers,Cincinnati Bengals,-80.015833,40.446667,10,Heinz Field,NFL,42003
+11/15/20,Yes,Arizona Cardinals,Buffalo Bills,-112.263,33.528,10,State Farm Stadium,NFL,04013
+11/15/20,No,Las Vegas Raiders,Denver Broncos,-115.183722,36.09075,10,Allegiant Stadium,NFL,32003
+10/18/20,Yes,Miami Dolphins,New York Jets,-80.238889,25.958056,6,Hard Rock Stadium,NFL,12086
+11/15/20,No,Los Angeles Rams,Seattle Seahawks,-118.3392,33.95345,10,SoFi Stadium,NFL,06037
+11/15/20,Yes,New Orleans Saints,San Francisco 49ers,-90.811111,29.950833,10,Mercedes-Benz Superdome,NFL,22093
+11/15/20,No,New England Patriots,Baltimore Ravens,-71.264,42.091,10,Gillette Stadium,NFL,25021
+11/16/20,No,Chicago Bears,Minnesota Vikings,-87.6167,41.8623,10,Soldier Field,NFL,17031
+11/19/20,No,Seattle Seahawks,Arizona Cardinals,-122.3316,47.5952,11,Lumen Field,NFL,53033
+11/22/20,No,Baltimore Ravens,Tennessee Titans,-76.622778,39.278056,11,M&T Bank Stadium,NFL,24510
+11/22/20,Yes,Carolina Panthers,Detroit Lions,-80.852778,35.225833,11,Bank of America Stadium,NFL,37119
+11/22/20,Yes,Cleveland Browns,Philadelphia Eagles,-81.699444,41.506111,11,FirstEnergy Stadium,NFL,39035
+11/22/20,Yes,Houston Texans,New England Patriots,-95.410833,29.684722,11,NRG Stadium,NFL,48201
+11/22/20,Yes,Indianapolis Colts,Green Bay Packers,-86.162806,39.760056,11,Lucas Oil Stadium,NFL,18097
+11/22/20,Yes,Jacksonville Jaguars,Pittsburgh Steelers,-81.6375,30.323889,11,TIAA Bank Field,NFL,12031
+11/22/20,Yes,New Orleans Saints,Atlanta Falcons,-90.811111,29.950833,11,Mercedes-Benz Superdome,NFL,22093
+11/22/20,No,Washington Football Team,Cincinnati Bengals,-76.864444,38.907778,11,FedExField,NFL,24033
+11/1/20,Yes,Denver Broncos,Los Angeles Chargers,-105.02,39.743889,8,Empower Field at Mile High,NFL,08031
+11/22/20,No,Minnesota Vikings,Dallas Cowboys,-93.258056,44.973889,11,U.S. Bank Stadium,NFL,27053
+11/22/20,No,Las Vegas Raiders,Kansas City Chiefs,-115.183722,36.09075,11,Allegiant Stadium,NFL,32003
+11/23/20,Yes,Tampa Bay Buccaneers,Los Angeles Rams,-82.503333,27.975833,11,Raymond James Stadium,NFL,12057
+11/26/20,No,Detroit Lions,Houston Texans,-83.045556,42.34,12,Ford Field,NFL,26163
+11/26/20,Yes,Dallas Cowboys,Washington Football Team,-97.092778,32.747778,12,AT&T Stadium,NFL,48439
+12/2/20,No,Pittsburgh Steelers,Baltimore Ravens,-80.015833,40.446667,12,Heinz Field,NFL,42003
+11/29/20,Yes,Atlanta Falcons,Las Vegas Raiders,-84.4,33.755556,12,Mercedes-Benz Stadium,NFL,13121
+11/29/20,No,Buffalo Bills,Los Angeles Chargers,-78.787,42.774,12,Bills Stadium,NFL,36029
+11/29/20,Yes,Cincinnati Bengals,New York Giants,-84.516,39.095,12,Paul Brown Stadium,NFL,21117
+11/29/20,Yes,Indianapolis Colts,Tennessee Titans,-86.162806,39.760056,12,Lucas Oil Stadium,NFL,18097
+11/29/20,Yes,Jacksonville Jaguars,Cleveland Browns,-81.6375,30.323889,12,TIAA Bank Field,NFL,12031
+11/29/20,No,Minnesota Vikings,Carolina Panthers,-93.258056,44.973889,12,U.S. Bank Stadium,NFL,27053
+11/29/20,No,New England Patriots,Arizona Cardinals,-71.264,42.091,12,Gillette Stadium,NFL,25021
+11/29/20,No,New York Jets,Miami Dolphins,-74.074361,40.813528,12,MetLife Stadium,NFL,34003
+11/29/20,No,Denver Broncos,New Orleans Saints,-105.02,39.743889,12,Empower Field at Mile High,NFL,08031
+11/29/20,No,Los Angeles Rams,San Francisco 49ers,-118.3392,33.95345,12,SoFi Stadium,NFL,06037
+11/29/20,Yes,Tampa Bay Buccaneers,Kansas City Chiefs,-82.503333,27.975833,12,Raymond James Stadium,NFL,12057
+11/29/20,No,Green Bay Packers,Chicago Bears,-88.062222,44.501389,12,Lambeau Field,NFL,55009
+11/30/20,No,Philadelphia Eagles,Seattle Seahawks,-75.1675,39.900833,12,Lincoln Financial Field,NFL,42101
+12/8/20,No,Baltimore Ravens,Dallas Cowboys,-76.622778,39.278056,13,M&T Bank Stadium,NFL,24510
+12/6/20,Yes,Atlanta Falcons,New Orleans Saints,-84.4,33.755556,13,Mercedes-Benz Stadium,NFL,13121
+12/6/20,No,Chicago Bears,Detroit Lions,-87.6167,41.8623,13,Soldier Field,NFL,17031
+12/6/20,Yes,Houston Texans,Indianapolis Colts,-95.410833,29.684722,13,NRG Stadium,NFL,48201
+12/6/20,Yes,Miami Dolphins,Cincinnati Bengals,-80.238889,25.958056,13,Hard Rock Stadium,NFL,12086
+12/6/20,No,Minnesota Vikings,Jacksonville Jaguars,-93.258056,44.973889,13,U.S. Bank Stadium,NFL,27053
+12/6/20,No,New York Jets,Las Vegas Raiders,-74.074361,40.813528,13,MetLife Stadium,NFL,34003
+12/7/20,No,Pittsburgh Steelers,Washington Football Team,-80.015833,40.446667,13,Heinz Field,NFL,42003
+12/6/20,Yes,Tennessee Titans,Cleveland Browns,-86.771389,36.166389,13,Nissan Stadium,NFL,47037
+12/6/20,No,Arizona Cardinals,Los Angeles Rams,-112.263,33.528,13,State Farm Stadium,NFL,04013
+12/6/20,No,Seattle Seahawks,New York Giants,-122.3316,47.5952,13,Lumen Field,NFL,53033
+12/6/20,No,Green Bay Packers,Philadelphia Eagles,-88.062222,44.501389,13,Lambeau Field,NFL,55009
+12/6/20,No,Los Angeles Chargers,New England Patriots,-118.3392,33.95345,13,SoFi Stadium,NFL,06037
+12/6/20,Yes,Kansas City Chiefs,Denver Broncos,-94.483889,39.048889,13,Arrowhead Stadium,NFL,29095
+12/7/20,No,San Francisco 49ers,Buffalo Bills,-121.97,37.403,13,State Farm Stadium,NFL,06085
+12/10/20,No,Los Angeles Rams,New England Patriots,-118.3392,33.95345,14,SoFi Stadium,NFL,06037
+12/13/20,Yes,Carolina Panthers,Denver Broncos,-80.852778,35.225833,14,Bank of America Stadium,NFL,37119
+12/13/20,No,Chicago Bears,Houston Texans,-87.6167,41.8623,14,Soldier Field,NFL,17031
+12/13/20,Yes,Cincinnati Bengals,Dallas Cowboys,-84.516,39.095,14,Paul Brown Stadium,NFL,21117
+12/13/20,No,Detroit Lions,Green Bay Packers,-83.045556,42.34,14,Ford Field,NFL,26163
+12/13/20,Yes,Jacksonville Jaguars,Tennessee Titans,-81.6375,30.323889,14,TIAA Bank Field,NFL,12031
+12/13/20,Yes,Miami Dolphins,Kansas City Chiefs,-80.238889,25.958056,14,Hard Rock Stadium,NFL,12086
+12/13/20,No,New York Giants,Arizona Cardinals,-74.074361,40.813528,14,MetLife Stadium,NFL,34003
+12/13/20,Yes,Tampa Bay Buccaneers,Minnesota Vikings,-82.503333,27.975833,14,Raymond James Stadium,NFL,12057
+12/13/20,No,Las Vegas Raiders,Indianapolis Colts,-115.183722,36.09075,14,Allegiant Stadium,NFL,32003
+12/13/20,No,Seattle Seahawks,New York Jets,-122.3316,47.5952,14,Lumen Field,NFL,53033
+12/13/20,No,Los Angeles Chargers,Atlanta Falcons,-118.3392,33.95345,14,SoFi Stadium,NFL,06037
+12/13/20,No,Philadelphia Eagles,New Orleans Saints,-75.1675,39.900833,14,Lincoln Financial Field,NFL,42101
+12/13/20,No,San Francisco 49ers,Washington Football Team,-121.97,37.403,14,State Farm Stadium,NFL,06085
+12/13/20,No,Buffalo Bills,Pittsburgh Steelers,-78.787,42.774,14,Bills Stadium,NFL,36029
+12/14/20,Yes,Cleveland Browns,Baltimore Ravens,-81.699444,41.506111,14,FirstEnergy Stadium,NFL,39035
+12/17/20,No,Las Vegas Raiders,Los Angeles Chargers,-115.183722,36.09075,15,Allegiant Stadium,NFL,32003
+12/19/20,No,Denver Broncos,Buffalo Bills,-105.02,39.743889,15,Empower Field at Mile High,NFL,08031
+12/19/20,No,Green Bay Packers,Carolina Panthers,-88.062222,44.501389,15,Lambeau Field,NFL,55009
+12/20/20,Yes,Indianapolis Colts,Houston Texans,-86.162806,39.760056,15,Lucas Oil Stadium,NFL,18097
+12/20/20,No,Los Angeles Rams,New York Jets,-118.3392,33.95345,15,SoFi Stadium,NFL,06037
+12/20/20,Yes,Tennessee Titans,Detroit Lions,-86.771389,36.166389,15,Nissan Stadium,NFL,47037
+12/20/20,Yes,Atlanta Falcons,Tampa Bay Buccaneers,-84.4,33.755556,15,Mercedes-Benz Stadium,NFL,13121
+12/20/20,No,Baltimore Ravens,Jacksonville Jaguars,-76.622778,39.278056,15,M&T Bank Stadium,NFL,24510
+12/20/20,Yes,Miami Dolphins,New England Patriots,-80.238889,25.958056,15,Hard Rock Stadium,NFL,12086
+12/20/20,No,Minnesota Vikings,Chicago Bears,-93.258056,44.973889,15,U.S. Bank Stadium,NFL,27053
+12/20/20,No,New York Giants,Cleveland Browns,-74.074361,40.813528,15,MetLife Stadium,NFL,34003
+12/20/20,No,Washington Football Team,Seattle Seahawks,-76.864444,38.907778,15,FedExField,NFL,24033
+12/20/20,No,Arizona Cardinals,Philadelphia Eagles,-112.263,33.528,15,State Farm Stadium,NFL,04013
+12/20/20,Yes,New Orleans Saints,Kansas City Chiefs,-90.811111,29.950833,15,Mercedes-Benz Superdome,NFL,22093
+12/20/20,Yes,Dallas Cowboys,San Francisco 49ers,-97.092778,32.747778,15,AT&T Stadium,NFL,48439
+12/21/20,Yes,Cincinnati Bengals,Pittsburgh Steelers,-84.516,39.095,15,Paul Brown Stadium,NFL,21117
+12/25/20,Yes,New Orleans Saints,Minnesota Vikings,-90.811111,29.950833,16,Mercedes-Benz Superdome,NFL,22093
+12/26/20,No,Arizona Cardinals,San Francisco 49ers,-112.263,33.528,16,State Farm Stadium,NFL,04013
+12/26/20,No,Detroit Lions,Tampa Bay Buccaneers,-83.045556,42.34,16,Ford Field,NFL,26163
+12/27/20,No,Los Angeles Chargers,Denver Broncos,-118.3392,33.95345,16,SoFi Stadium,NFL,06037
+12/26/20,No,Las Vegas Raiders,Miami Dolphins,-115.183722,36.09075,16,Allegiant Stadium,NFL,32003
+12/27/20,No,New York Jets,Cleveland Browns,-74.074361,40.813528,16,MetLife Stadium,NFL,34003
+12/27/20,No,Baltimore Ravens,New York Giants,-76.622778,39.278056,16,M&T Bank Stadium,NFL,24510
+12/27/20,Yes,Houston Texans,Cincinnati Bengals,-95.410833,29.684722,16,NRG Stadium,NFL,48201
+12/27/20,Yes,Jacksonville Jaguars,Chicago Bears,-81.6375,30.323889,16,TIAA Bank Field,NFL,12031
+12/27/20,Yes,Kansas City Chiefs,Atlanta Falcons,-94.483889,39.048889,16,Arrowhead Stadium,NFL,29095
+12/27/20,No,Pittsburgh Steelers,Indianapolis Colts,-80.015833,40.446667,16,Heinz Field,NFL,42003
+12/27/20,No,Washington Football Team,Carolina Panthers,-76.864444,38.907778,16,FedExField,NFL,24033
+12/27/20,No,Seattle Seahawks,Los Angeles Rams,-122.3316,47.5952,16,Lumen Field,NFL,53033
+12/27/20,Yes,Dallas Cowboys,Philadelphia Eagles,-97.092778,32.747778,16,AT&T Stadium,NFL,48439
+12/27/20,No,Green Bay Packers,Tennessee Titans,-88.062222,44.501389,16,Lambeau Field,NFL,55009
+12/28/20,No,New England Patriots,Buffalo Bills,-71.264,42.091,16,Gillette Stadium,NFL,25021
+1/3/21,No,Buffalo Bills,Miami Dolphins,-78.787,42.774,17,Bills Stadium,NFL,36029
+1/3/21,Yes,Carolina Panthers,New Orleans Saints,-80.852778,35.225833,17,Bank of America Stadium,NFL,37119
+1/3/21,No,Chicago Bears,Green Bay Packers,-87.6167,41.8623,17,Soldier Field,NFL,17031
+1/3/21,Yes,Cincinnati Bengals,Baltimore Ravens,-84.516,39.095,17,Paul Brown Stadium,NFL,21117
+1/3/21,Yes,Cleveland Browns,Pittsburgh Steelers,-81.699444,41.506111,17,FirstEnergy Stadium,NFL,39035
+1/3/21,No,Detroit Lions,Minnesota Vikings,-83.045556,42.34,17,Ford Field,NFL,26163
+1/3/21,Yes,Kansas City Chiefs,Los Angeles Chargers,-94.483889,39.048889,17,Arrowhead Stadium,NFL,29095
+1/3/21,No,New England Patriots,New York Jets,-71.264,42.091,17,Gillette Stadium,NFL,25021
+1/3/21,No,New York Giants,Dallas Cowboys,-74.074361,40.813528,17,MetLife Stadium,NFL,34003
+1/3/21,No,Philadelphia Eagles,Washington Football Team,-75.1675,39.900833,17,Lincoln Financial Field,NFL,42101
+1/3/21,Yes,Tampa Bay Buccaneers,Atlanta Falcons,-82.503333,27.975833,17,Raymond James Stadium,NFL,12057
+1/3/21,No,Denver Broncos,Las Vegas Raiders,-105.02,39.743889,17,Empower Field at Mile High,NFL,08031
+1/3/21,Yes,Houston Texans,Tennessee Titans,-95.410833,29.684722,17,NRG Stadium,NFL,48201
+1/3/21,Yes,Indianapolis Colts,Jacksonville Jaguars,-86.162806,39.760056,17,Lucas Oil Stadium,NFL,18097
+1/3/21,No,Los Angeles Rams,Arizona Cardinals,-118.3392,33.95345,17,SoFi Stadium,NFL,06037
+1/3/21,No,San Francisco 49ers,Seattle Seahawks,-121.97,37.403,17,State Farm Stadium,NFL,06085
